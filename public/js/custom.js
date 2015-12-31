@@ -1,3 +1,14 @@
+$(window).bind('scroll', function() {
+   if ($(window).scrollTop() > 20) {
+       $('.navbar').addClass('colored');
+   }
+   else {
+       $('.navbar').removeClass('colored');
+   }
+});
+
+
+
 // open menu dropdown on mouseover
 $(function () {
     $(".dropdown-hover").hover(
@@ -7,7 +18,7 @@ $(function () {
         function () {
             $(this).removeClass('open')
         }
-    );
+        );
 });
 
 $(document).ready(function () {

@@ -4,10 +4,18 @@
 {% include head.html %}
 
 <body>
+	{% include menu.html %}
+
+	<div class="clearfix content-heading">
+		<img src="/public/images/weide.png" class="pull-left" style="margin-top:-50px;>
+		<a class="navbar-brand" href="/"><img src="/public/images/logo.png" style="position: absolute; margin-left: auto;margin-right: auto; left: 0;right: 0;top:100px;"></a>  
+		<img src="/public/images/kuh.png" style="position: absolute; margin-top:85px; margin-left: auto;margin-right: auto; left: 0;right: -500px;">  		
+	</div>	
+
 	<div class="container">
-		{% include menu.html %}
 		{{ content }}
-	</div> <!-- /container -->
+	</div>
+	
 	<footer class="footer">
 		<a class="text-muted text-center" href="/impressum/">Impressum</a>
 	</footer>
