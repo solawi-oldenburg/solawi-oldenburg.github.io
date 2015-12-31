@@ -1,9 +1,9 @@
 $(window).bind('scroll', function() {
    if ($(window).scrollTop() > 20) {
-       $('.navbar').addClass('colored');
+       $('.navbar').addClass('colored-navbar');
    }
    else {
-       $('.navbar').removeClass('colored');
+       $('.navbar').removeClass('colored-navbar');
    }
 });
 
