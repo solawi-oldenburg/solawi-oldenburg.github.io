@@ -1,0 +1,36 @@
+<nav class="navbar navbar-default">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/"><img src="/public/images/logo.png"></a>  			
+		</div>
+		<div id="navbar" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li class="{% if page.url == "/" %} active{% endif %}"><a href="/"><i class="glyphicon glyphicon-home"></i></a></li>
+				<li class="{% if page.url == "/solidarische_landwirtschaft/" %}active{% endif %}"><a href="/solidarische_landwirtschaft/">Solidarische Landwirtschaft</a></li> 				
+				<li class="dropdown dropdown-hover {% if page.url == "/mitglieder/" or page.url == "/hof/" %}active{% endif %}">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Wer wir sind <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li class="{% if page.url == "/mitglieder/" %}active{% endif %}"><a href="/mitglieder/">Mitglieder</a></li>
+						<li class="{% if page.url == "/hof/" %}active{% endif %}"><a href="/hof/">Der Hof</a></li>
+					</ul>
+				</li>
+				<li class="dropdown dropdown-hover {% if page.url == "/neuigkeiten/" or page.url == "/veranstaltungen/" %}active{% endif %}">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Aktuelles <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li class="{% if page.url == "/neuigkeiten/" %}active{% endif %}"><a href="/neuigkeiten/">Neuigkeiten</a></li>
+						<li class="{% if page.url == "/veranstaltungen/" %}active{% endif %}"><a href="/veranstaltungen/">Veranstaltungen</a></li>
+					</ul>
+				</li>
+				<li class="{% if page.url == "/mitmachen/" %}active{% endif %}"><a href="/mitmachen/">Mitmachen</a></li> 
+				<li class="{% if page.url == "/kontakt/" %}active{% endif %}"><a href="/kontakt/">Kontakt</a></li> 
+				<li class="{% if page.url == "/rezepte/" %}active{% endif %}"><a href="/rezepte/">Rezepte</a></li>               
+			</ul>
+		</div><!--/.nav-collapse -->
+	</div><!--/.container-fluid -->
+</nav>

@@ -1,0 +1,10 @@
+# Dependencies
+markdown: kramdown
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Solawi Oldenburg
+baseurl: /
+url: ""
