@@ -1,9 +1,29 @@
+.carousel-indicators {
+	bottom:-2px;
+}
+
+.carousel {
+	width: 667px;
+}
+
+.carousel-caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.3);
+	width: 100%;
+	font-size: 110%;
+	padding-top: 0.5rem;
+	padding-bottom: 2rem;
+}
+
 body {
 	background-color: #f1d8ba;
 }
 
 html { 
 	background: #f1d8ba;
+	overflow-y: scroll; /* prevent scrollbar from repositioning web page */		
 }
 
 .affix {

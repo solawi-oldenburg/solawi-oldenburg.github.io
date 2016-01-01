@@ -18,13 +18,12 @@
 .navbar .nav .active > a {
   background-color: transparent;
   color: black;  
-  font-weight: bold;
+  text-decoration: underline;  
 }
 
 .navbar .nav .active > a:hover {
   background-color: transparent;
   color: black;  
-  font-weight: bold;
   text-decoration: underline;  
 }
 

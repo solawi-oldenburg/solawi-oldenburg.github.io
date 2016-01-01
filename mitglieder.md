@@ -17,6 +17,10 @@ title: Mitglieder
 - Ilka: Stadt-Land-Beziehungen stärken, Leuchtturm
 - Franzi: Wichtigster Beruf, Beziehung ist verloren gegangen, Menschen erreichen und zeigen, dass das geht
 
+
+<img src="/public/images/grummersort.jpg">
+
+
 ### Unsere Vision
 
 - Eine gesunde Tier- und Pflanzenwelt fördern
@@ -45,3 +49,7 @@ Angemessene Löhne
 
 ### Ideen
 Laden mit Raum für Begegnungen, Café, Gemeinschaftsküche zum gemeinsam Kochen, Einkochen, Sauerkraut machen.
+
+
+### Diese Website...
+... ist quelloffen und wird deshalb kostenfrei bei GitHub gehostet. Wer eine eigene Website erstellen möchte, kann sich [unseren Quellcode](https://github.com/solawi-oldenburg/solawi-oldenburg.github.io) dort ansehen.
