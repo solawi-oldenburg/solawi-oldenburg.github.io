@@ -1,5 +1,5 @@
-<div id="menu" style="position:absolute;margin-left: auto;margin-right: auto; left: 0;right: 0;top:20px;">
-	<nav class="navbar navbar-default" data-spy="affix" data-offset-top="20">
+<div id="menu" style="position:absolute;margin-left: auto;margin-right: auto; left: 0;right: 0;top:110px;">
+	<nav class="navbar navbar-default center" data-spy="affix" data-offset-top="110">
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -9,8 +9,8 @@
 					<span class="icon-bar"></span>
 				</button>
 			</div>
-			<div id="navbar" class="navbar-collapse collapse">
-				<ul class="nav navbar-nav navbar-right">
+			<div id="navbar" class="navbar-collapse collapse navbar-inner">
+				<ul class="nav navbar-nav">
 					<li class="{% if page.url == "/" %} active{% endif %}"><a href="/"><i class="glyphicon glyphicon-home"></i></a></li>
 					<li class="{% if page.url == "/solidarische_landwirtschaft/" %}active{% endif %}"><a href="/solidarische_landwirtschaft/">Solidarische Landwirtschaft</a></li> 				
 					<li class="dropdown dropdown-hover {% if page.url == "/mitglieder/" or page.url == "/hof/" %}active{% endif %}">
@@ -29,7 +29,7 @@
 					</li>
 					<li class="{% if page.url == "/mitmachen/" %}active{% endif %}"><a href="/mitmachen/">Mitmachen</a></li> 
 					<li class="{% if page.url == "/kontakt/" %}active{% endif %}"><a href="/kontakt/">Kontakt</a></li> 
-					<li class="{% if page.url == "/rezepte/" %}active{% endif %}"><a href="/rezepte/">Rezepte</a></li>               
+					<!-- <li class="{% if page.url == "/rezepte/" %}active{% endif %}"><a href="/rezepte/">Rezepte</a></li>                -->
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div><!--/.container-fluid -->
