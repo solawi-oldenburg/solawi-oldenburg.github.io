@@ -10,7 +10,7 @@ title: Stall-Icon
 		<p class="lead">Hallooooo Diese Bla. </p>
 	</div>
 	<div class="col-md-5">
-		<img class="featurette-image img-responsive center-block" src="/public/images/kuh.png">
+		<img class="featurette-image img-responsive center-block" src="/public/images/1.png">
 	</div>
 </div>
 
