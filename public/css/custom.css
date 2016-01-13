@@ -6,6 +6,10 @@
     display:inline-block;
 }
 
+.brown {
+	color: #5e4b46;
+}
+
 
 .carousel-indicators {
 	bottom:-2px;
@@ -55,6 +59,7 @@ html {
 }
 
 h1, h2, h3, h4 {
+	margin-top: 40px;
 	font-family: 'Vollkorn', serif;	
 }
 
@@ -67,12 +72,12 @@ html {
 }
 
 body {
-	margin-bottom: 40px;
+	margin-bottom: 80px;
 }
 .footer {
 	position: absolute;
 	bottom: 0;
 	text-align: center;
 	width: 100%;
-	height: 30px;
+	height: 37px;
 }
