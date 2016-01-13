@@ -6,9 +6,13 @@ published: true
 
 
 
+
 ## Veranstaltungen
 
 Roman
+
+![Logo_Oezo.jpeg](/public/images/Logo_Oezo.jpeg)
+
 
 ### Unterpunkt
 Ein Text af,äaf ssfla **fasnf** s. fas fasfjsa fsa . asfsa fasf asf.
