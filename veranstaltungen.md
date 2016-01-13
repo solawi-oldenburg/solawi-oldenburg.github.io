@@ -4,6 +4,7 @@ title: Veranstaltungen
 published: true
 ---
 
+![]({{site.baseurl}}/public/images/andere_kuh.jpg)
 
 ## Veranstaltungen
 
