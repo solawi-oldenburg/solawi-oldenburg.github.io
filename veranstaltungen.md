@@ -6,7 +6,7 @@ published: true
 
 ![]({{site.baseurl}}/public/images/andere_kuh.jpg)
 
-![Logo_Oezo.jpeg]({{site.baseurl}}/public/images/Logo_Oezo.jpeg)
+![Logo_Oezo.jpeg](/public/images/Logo_Oezo.jpeg)
 
 
 ## Veranstaltungen
