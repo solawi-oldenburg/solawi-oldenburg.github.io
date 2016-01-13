@@ -5,7 +5,7 @@ title: Rezepte
 
 ## Rezepte
 
-### Grünkern Aufstrich
+### Grünkern Aufstrich
 - 1 Zwiebel
 - 1 Zehe Knoblauch
 	- schnippeln
