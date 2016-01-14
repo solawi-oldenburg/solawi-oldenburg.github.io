@@ -1,3 +1,25 @@
+/* Rezepte Sidebar */
+.nav-sidebar li a:hover {
+  color:  black;
+  text-decoration: underline;
+}
+.nav-sidebar li.active a {
+  color:  black;
+  text-decoration: underline;
+}
+
+.nav-sidebar {
+  margin-left: -20px;
+}
+
+/* Rezepte Main */
+@media (min-width:40em) {
+main {
+    float: left;
+    width: 60%;
+    }
+}
+
 .navbar.center .navbar-inner {
     text-align: center;
 }

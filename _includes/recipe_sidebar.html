@@ -1,0 +1,14 @@
+<div class="col-sm-4 col-md-4 sidebar">
+	<h4>Rezepte Liste:</h4>
+	<nav class="nav nav-sidebar">
+		<ul>
+			{% for p in site.pages %}
+			{% if p.layout == "recipe" and p.title != "Rezepte" %}
+			<li class="{% if p.url == page.url %}active{% endif %}">
+				<a href="{{ p.url }}">{{ p.title }}</a>
+			</li>
+			{% endif %}
+			{% endfor %}
+		</ul>
+	</nav>
+</div>
