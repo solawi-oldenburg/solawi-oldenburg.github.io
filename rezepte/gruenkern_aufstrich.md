@@ -1,9 +1,12 @@
 ---
 layout: recipe
-title: Grünkern Aufstrich (vegan)
+title: Grünkern Aufstrich
 ---
 
-## Grünkern Aufstrich (vegan)
+## Grünkern Aufstrich
+
+Arbeitszeit: 10 Minuten<br>
+Benötigt Getreidemühle oder Hochleistungsmixer
 
 - 1 Zwiebel
 - 1 Zehe Knoblauch
