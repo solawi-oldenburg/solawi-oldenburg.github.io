@@ -5,7 +5,7 @@ title: Grünkern Aufstrich
 
 ## Grünkern Aufstrich
 
-Arbeitszeit: 10 Minuten<br>
+Arbeitszeit: 10 Min<br>
 Benötigt Getreidemühle oder Hochleistungsmixer
 
 - 1 Zwiebel
@@ -26,5 +26,5 @@ Benötigt Getreidemühle oder Hochleistungsmixer
 	- Kardamom
 - 200 ml Gemüsebrühe
 	- mit Zwiebeln und Grünkern in einem kleinen Topf mischen
-	- 7 Minuten köcheln
+	- 7 Min köcheln
 	- 3 Stunden in den Kühlschrank
