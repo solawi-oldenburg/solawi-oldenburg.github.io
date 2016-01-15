@@ -9,7 +9,7 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>{% if page.url != "/" %}{{ page.title }} &middot; {% endif %}{{ site.title }}</title>
+  <title>{% if page.url == "/" or page.url contains "blog" %}{{ site.title }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/bootstrap.min.css">  

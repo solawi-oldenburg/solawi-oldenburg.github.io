@@ -1,31 +1,49 @@
+.pager > li > a {
+	background-color: #f1d8ba;	
+}
+.pager > li > a:hover {
+	background-color: gray;	
+}
+.pager > li > a {
+	border: 1px solid black;
+}
+
+.post-title a {
+	color:  black;	
+}
+
+.post-title a:hover {
+	text-decoration: none;
+}
+
 /* Rezepte Sidebar */
 .nav-sidebar li a:hover {
-  color:  black;
-  text-decoration: underline;
+	color:  black;
+	text-decoration: underline;
 }
 .nav-sidebar li.active a {
-  color:  black;
-  text-decoration: underline;
+	color:  black;
+	text-decoration: underline;
 }
 
 .nav-sidebar {
-  margin-left: -20px;
+	margin-left: -20px;
 }
 
 /* Rezepte Main */
 @media (min-width:40em) {
-main {
-    float: left;
-    width: 60%;
-    }
+	main {
+		float: left;
+		width: 60%;
+	}
 }
 
 .navbar.center .navbar-inner {
-    text-align: center;
+	text-align: center;
 }
 .navbar.center .navbar-inner .nav {
-    float: none;
-    display:inline-block;
+	float: none;
+	display:inline-block;
 }
 
 .brown {
