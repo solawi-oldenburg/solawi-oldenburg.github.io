@@ -7,5 +7,7 @@ categories: [hof, veranstaltung]
 
 Wir freuen uns auf euch!
 
-<img src="/public/images/a.jpg">
+
+![ernte](/public/images/a.jpg)
+
 

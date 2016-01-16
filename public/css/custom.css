@@ -1,3 +1,16 @@
+.banner {
+	background: url("/public/images/weide.jpg") no-repeat left top;
+	height: 180px;
+}
+
+.sidebar {
+	float: right;
+}
+
+img {
+	max-width: 100%;
+}
+
 .pager > li > a {
 	background-color: #f1d8ba;	
 }
@@ -27,14 +40,6 @@
 
 .nav-sidebar {
 	margin-left: -20px;
-}
-
-@media (min-width: 60em) {
-	main {
-		float: left;
-		width: 60%;
-		margin-right: 2em;
-	}
 }
 
 .navbar.center .navbar-inner {
