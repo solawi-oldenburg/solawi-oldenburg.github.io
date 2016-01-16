@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Möhren ernten
-categories: hof
+title: Möhren ernten am 01.02.
+categories: [hof, veranstaltung]
 ---
 
 

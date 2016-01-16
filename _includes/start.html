@@ -55,19 +55,4 @@
 	{% endif %}
 </main>
 
-<div class="col-sm-4 col-md-4 sidebar" style="margin-top: 40px">
-	Zeige nur Blogeinträge der Kategorie:
-	<nav class="nav nav-sidebar">
-		<ul>
-			<li class="{% if page.url == "/" or page.url contains "seite" %}active{% endif %}">
-				<a href="/">Alle</a>
-			</li>		
-			<li class="{% if page.url == "/blog/hof/" %}active{% endif %}">
-				<a href="/blog/hof/">Hof</a>
-			</li>
-			<li class="{% if page.url == "/blog/welt/" %}active{% endif %}">
-				<a href="/blog/welt/">Welt</a>
-			</li>
-		</ul>
-	</nav>
-</div>
+{% include start_sidebar.html %}

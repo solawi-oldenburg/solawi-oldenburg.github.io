@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tomaten pflanzen
-categories: hof
+title: Tomaten pflanzen am 23.09.
+categories: [hof, veranstaltung]
 ---
 
 

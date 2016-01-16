@@ -16,7 +16,6 @@
 	text-decoration: none;
 }
 
-/* Rezepte Sidebar */
 .nav-sidebar li a:hover {
 	color:  black;
 	text-decoration: underline;
@@ -30,11 +29,11 @@
 	margin-left: -20px;
 }
 
-/* Rezepte Main */
-@media (min-width:40em) {
+@media (min-width: 60em) {
 	main {
 		float: left;
 		width: 60%;
+		margin-right: 2em;
 	}
 }
 

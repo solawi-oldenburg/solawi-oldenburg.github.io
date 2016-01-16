@@ -1,27 +1,30 @@
 ---
 layout: page
 ---
-
-<div class="post">
-  <h2 class="post-title">{{ page.title }}</h2>
-  <p class="post-date">
-    {% assign m = page.date | date: "%-m" %}
-    {{ page.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}Januar
-    {% when '2' %}Februar
-    {% when '3' %}März
-    {% when '4' %}April
-    {% when '5' %}Mai
-    {% when '6' %}Juni
-    {% when '7' %}Juli
-    {% when '8' %}August
-    {% when '9' %}September
-    {% when '10' %}Oktober
-    {% when '11' %}November
-    {% when '12' %}Dezember
-    {% endcase %}
-    {{ page.date | date: "%Y" }}
-  </p>
-  {{ content }}
+<main>
+    <div class="post">
+      <h2 class="post-title">{{ page.title }}</h2>
+      <p class="post-date">
+        {% assign m = page.date | date: "%-m" %}
+        {{ page.date | date: "%-d" }}
+        {% case m %}
+        {% when '1' %}Januar
+        {% when '2' %}Februar
+        {% when '3' %}März
+        {% when '4' %}April
+        {% when '5' %}Mai
+        {% when '6' %}Juni
+        {% when '7' %}Juli
+        {% when '8' %}August
+        {% when '9' %}September
+        {% when '10' %}Oktober
+        {% when '11' %}November
+        {% when '12' %}Dezember
+        {% endcase %}
+        {{ page.date | date: "%Y" }}
+    </p>
+    {{ content }}
 </div>
+</main>
+
+{% include start_sidebar.html %}
