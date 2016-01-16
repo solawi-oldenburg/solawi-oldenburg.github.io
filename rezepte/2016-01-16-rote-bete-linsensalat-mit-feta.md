@@ -21,10 +21,3 @@ Zutaten für vier großzügige Portionen (als Hauptgericht):
 Zubereitung:
 
 Die Linsen mit etwas Kümmel in reichlich Wasser 20 bis 30 Minuten gar kochen. Anschließend ggf. überschüssiges Wasser abgießen. Die Rote Bete in der Zwischenzeit schälen, fein würfeln und in Wasser ca. 15 Minuten kochen, so dass sie noch bissfest ist; anschließend abgießen. Aus Olivenöl, Essig, Senf, Honig, Salz und Pfeffer mit dem Schneebesen ein Dressing rühren. Nun Linsen und Rote Bete mit dem Dressing vermengen und ca. 30 Minuten bedeckt durchziehen lassen. Den Salat mit Zitronensaft abschmecken und den gewürfelten Feta unterheben. Der Salat kann lauwarm oder kalt serviert werden.
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
