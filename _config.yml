@@ -45,3 +45,16 @@ prose:
               value: "welt"              
             - name: "veranstaltung"
               value: "veranstaltung"
+    rezepte:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "recipe"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
