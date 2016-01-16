@@ -10,6 +10,13 @@ prose:
   media: 'public/images'
   ignore:
     - _config.yml
+    - README.md
+    - .gitignore
+    - index.html
+    - /blog
+    - /public/css
+    - /public/fonts
+    - /public/js
     - /_layouts
     - /_includes
   metadata:
@@ -18,6 +25,10 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titel"
       - name: "categories"
         field:
           element: "multiselect"
