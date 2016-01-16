@@ -6,3 +6,27 @@ url: ""
 gems: [jekyll-paginate]
 paginate: 2
 paginate_path: "/blog/seite:num/"
+prose:
+  media: 'public/images'
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Wähle Kategorien"
+          placeholder: "Wähle Kategorien"
+          options:
+            - name: "hof"
+              value: "hof"
+            - name: "welt"
+              value: "welt"              
+            - name: "veranstaltung"
+              value: "veranstaltung"
