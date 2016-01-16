@@ -10,7 +10,7 @@
 		{% if page.url  == "/" or page.url contains "seite" or post.categories contains filter %}
 		<div class="post" style="margin-top:70px">
 			<h2 class="post-title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>	
+				<a href="{{ post.url }}">{{ post.title }}</a>	
 			</h2>
 			<p class="post-date">
 				{% assign m = post.date | date: "%-m" %}
