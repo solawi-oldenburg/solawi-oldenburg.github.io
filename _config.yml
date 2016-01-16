@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /:title/
 title: Solawi Oldenburg
-baseurl: ""
-url: "http://solawi-oldenburg.github.io/"
+baseurl: /
+url: ""
 gems: [jekyll-paginate]
 paginate: 2
 paginate_path: "/blog/seite:num/"
