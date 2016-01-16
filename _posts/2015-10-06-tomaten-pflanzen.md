@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tomaten pflanzen
+categories: hof
 ---
 
 

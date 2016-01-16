@@ -1,0 +1,73 @@
+<main>
+	<div style="margin-top:-30px">
+		{% if page.url  == "/" or page.url contains "seite" %}
+		{% assign posts = paginator.posts %}
+		{% else %}
+		{% assign posts = site.posts %}
+		{% endif %}
+		{% for post in posts %}
+		{% assign filter = page.url | remove: "blog" | replace: '/', '' %}
+		{% if page.url  == "/" or page.url contains "seite" or post.categories contains filter %}
+		<div class="post" style="margin-top:70px">
+			<h2 class="post-title">
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>	
+			</h2>
+			<p class="post-date">
+				{% assign m = post.date | date: "%-m" %}
+				{{ post.date | date: "%-d" }}
+				{% case m %}
+				{% when '1' %}Januar
+				{% when '2' %}Februar
+				{% when '3' %}März
+				{% when '4' %}April
+				{% when '5' %}Mai
+				{% when '6' %}Juni
+				{% when '7' %}Juli
+				{% when '8' %}August
+				{% when '9' %}September
+				{% when '10' %}Oktober
+				{% when '11' %}November
+				{% when '12' %}Dezember
+				{% endcase %}
+				{{ post.date | date: "%Y" }}
+			</p>
+			{{ post.content }}
+		</div>
+		{% endif %}
+		{% endfor %}
+	</div>
+
+	{% if page.url  == "/" or page.url contains "seite" %}
+	<nav style="margin-top: 40px">
+		<ul class="pager">
+			{% if paginator.next_page %}
+			<li class="previous">
+				<a href="{{ paginator.next_page_path }}" class="next">&larr; Ältere Blogeinträge</a>
+			</li>
+			{% endif %}
+			{% if paginator.previous_page %}
+			<li class="next">
+				<a href="{{ paginator.previous_page_path }}" class="previous">Neuere Blogeinträge &rarr;</a>
+			</li>
+			{% endif %}
+		</ul>
+	</nav>
+	{% endif %}
+</main>
+
+<div class="col-sm-4 col-md-4 sidebar" style="margin-top: 40px">
+	Zeige nur Blogeinträge der Kategorie:
+	<nav class="nav nav-sidebar">
+		<ul>
+			<li class="{% if page.url == "/" or page.url contains "seite" %}active{% endif %}">
+				<a href="/">Alle</a>
+			</li>		
+			<li class="{% if page.url == "/blog/hof/" %}active{% endif %}">
+				<a href="/blog/hof/">Hof</a>
+			</li>
+			<li class="{% if page.url == "/blog/welt/" %}active{% endif %}">
+				<a href="/blog/welt/">Welt</a>
+			</li>
+		</ul>
+	</nav>
+</div>
