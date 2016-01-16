@@ -1,6 +1,6 @@
 markdown: kramdown
-permalink: /:title/
-title: Solawi Oldenburg
+permalink: pretty
+title: Solawi pretty
 baseurl: /
 url: ""
 gems: [jekyll-paginate]
