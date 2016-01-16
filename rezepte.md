@@ -5,20 +5,19 @@ published: true
 ---
 
 
+
 ## Rezepte
 
 Von den Mitgliedern erprobte Rezepte :)<br>
 Alle Rezepte lassen sich vegan oder vegetarisch zubereiten.<br>
 Rezepte mit Fleisch sind mit folgendem Symbol gekennzeichnet: Todo<br>
 
-### Unterüberschrift
-Text schreiben, bei dem _manche_ Wörter **fett** sind.
+![logo_kaemena.png]({{site.baseurl}}/public/images/logo_kaemena.png)
 
-[Link](www.treenote.de)
+[Linkname](www.treenote.de)
 
-![andere_kuh.jpg]({{site.baseurl}}/public/images/andere_kuh.jpg)
+### Kleine Überschrift
 
-
-Wie findet ihr diesen Rahmen?
+Wie findet _ihr_ diesen **Rahmen**?
 
 Der Grünkohl Aufstrich und der Kürbis Auflauf sind vegan, einfach, halbwegs regional und schnell. Aber sie brauchen eine Mühle :(
