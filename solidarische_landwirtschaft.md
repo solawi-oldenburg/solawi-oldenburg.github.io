@@ -5,7 +5,7 @@ published: true
 ---
 
 
-
+## Solidarische Landwirtschaft
 
 - Gemeinsam Landwirtschaft gestalten
 - Gemeinsam Verantwortung übernehmen für Mensch und Natur
