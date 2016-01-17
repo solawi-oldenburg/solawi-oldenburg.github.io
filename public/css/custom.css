@@ -1,3 +1,7 @@
+.minus_left {
+	margin-left: -20px;
+}
+
 .banner {
 	background: url("/public/images/weide.jpg") no-repeat left top;
 	height: 180px;
