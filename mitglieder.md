@@ -1,21 +1,15 @@
 ---
 layout: page
 title: Mitglieder
+published: true
 ---
+
 
 ## Mitglieder
 
-### Unsere Geschichte
-- Postwachstumsvorlesung
-
-- Menschen, die sich engagieren wollen
-- Menschen aus allen Bereichen
-- Oldenburger, Öko, bewusst
-- was bewegt uns?
-- Albrecht: Wertschätzung der bäuerlichen Arbeit, ermöglichen zu angemessenen Bedingungen zu wirtschaften, Mithilfe gar nicht so wichtig.
-- Naomie: von der grundsätzlichen Logik wegkommen. Gegenseitiges ermöglichen (der Landwirt kann leben, Mitbauern sind versorgt).
-- Ilka: Stadt-Land-Beziehungen stärken, Leuchtturm
-- Franzi: Wichtigster Beruf, Beziehung ist verloren gegangen, Menschen erreichen und zeigen, dass das geht
+### Wer wir sind
+Wir sind eine Gruppe von Menschen aus Oldenburg und Umgebung. Zusammengefunden haben wir nach einer Veranstaltung im Rahmen der Postwachstumsringvorlesung zum Thema Solidarische Landwirtschaft im Juni 2015. Dr.Tobias Hartkemeyer berichtete dort von von seinem csa-Hof Pente bei Osnabrück.
+Seither treffen wir uns alle zwei Wochen, um eine Solidarische Landwirtschaft für Oldenburg auf die Beine zu stellen. Unterstützt werden wir dabei von Ilka Wäsche, Eine-Welt-Promotorin im Ökumenischen Zentrum Oldenburg. Unsere Treffen finden abwechselnd im Ökumenischen Zentrum und im Kreativ:LABOR der Kulturetage Oldenburg statt. 
 
 
 <img src="/public/images/grummersort.jpg">
@@ -49,5 +43,3 @@ Angemessene Löhne
 
 ### Ideen
 Laden mit Raum für Begegnungen, Café, Gemeinschaftsküche zum gemeinsam Kochen, Einkochen, Sauerkraut machen.
-
-
