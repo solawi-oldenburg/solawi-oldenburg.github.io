@@ -1,8 +1,25 @@
 # Website der Solawi Oldenburg
 
-Um die Website zu editieren, brauchst du einen kostenlosen GitHub Account (grüner Button oben rechts).
-Schreibe an [jan.korte@uni-oldenburg.de](mailto:jan.korte@uni-oldenburg.de), um Editier-Rechte zu bekommen.
-
-Klicke dann auf eine Datei in der Dateiliste hier drüber, z. B. `veranstaltungen.md`. Klicke in der geöffneten Datei auf das Stift-Symbol oben rechts, um sie zu editieren.
-
 Made with [Jekyll](http://jekyllrb.com/) and [Bootstrap](http://getbootstrap.com/).
+
+[Video-Anleitung zum Editieren der Website](https://www.youtube.com/watch?v=ABlWU8YpzFU)
+
+Bearbeiten: http://prose.io
+
+Mit `<br>` erzeugst du Leerzeilen (line breaks)
+
+Mit der Diskette rechts speicherst du
+
+Bild einfügen
+- Den Button mit dem Bild klicken
+
+Rezept hinzufügen
+- Auf den Ordner "rezepte" klicken
+- Button "Neue Datei" klicken
+- Oben den Titel des Rezepts angeben
+
+Blogeintrag hinzufügen
+- Auf den Ordner "_posts" klicken
+- Button "Neue Datei" klicken
+- Oben den Titel des Blogeintrag angeben
+- Button "Metainformationen" am rechten Rand klicken und dem Blogeintrag Kategorien zuweisen
