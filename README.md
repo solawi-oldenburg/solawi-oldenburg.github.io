@@ -1,10 +1,13 @@
 # Website der Solawi Oldenburg
+Unsere Website: http://solawi-oldenburg.github.io/ 
 
 Made with [Jekyll](http://jekyllrb.com/) and [Bootstrap](http://getbootstrap.com/).
 
-[Video-Anleitung zum Editieren der Website](https://www.youtube.com/watch?v=ABlWU8YpzFU)
+## Anleitung zum Editieren der Website
 
-Bearbeiten: http://prose.io
+[Youtube-Video](https://www.youtube.com/watch?v=ABlWU8YpzFU)
+
+Bearbeiten mit: http://prose.io
 
 Mit `<br>` erzeugst du Leerzeilen (line breaks)
 
