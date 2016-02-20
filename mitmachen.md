@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 ## Mitmachen
 
 Für das Erntejahr 2017 vergeben wir 70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
@@ -83,3 +84,5 @@ Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. In Koorperatio
 		</p>
 	</div>
 </div>
+
+![P1130613.JPG]({{site.baseurl}}/public/images/P1130613.JPG)
