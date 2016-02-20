@@ -4,7 +4,7 @@
 
 .banner {
 	background: url("/public/images/weide.jpg") no-repeat left top;
-	height: 180px;
+	height: 90px;
 }
 
 .sidebar {
@@ -79,11 +79,10 @@ img {
 }
 
 body {
-	background-color: #f1d8ba;
+	background: url("/public/images/background.jpg") repeat;
 }
 
 html { 
-	background: #f1d8ba;
 	overflow-y: scroll; /* prevent scrollbar from repositioning web page */		
 }
 
@@ -103,7 +102,8 @@ html {
 }
 
 .colored-navbar{	
-	background-color: #8ba9e6;
+	border: 0px;
+	background: url("/public/images/weide.jpg") no-repeat left top;
 }
 
 h1, h2, h3, h4 {
