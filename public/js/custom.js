@@ -27,3 +27,8 @@ $(document).ready(function () {
         e.stopPropagation();
     });
 });
+
+
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});

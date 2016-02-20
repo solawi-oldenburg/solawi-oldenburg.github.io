@@ -10,7 +10,8 @@
 				</button>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse navbar-inner">
-				<ul class="nav navbar-nav" style="margin-right:-85px">			
+				<ul class="nav navbar-nav" style="margin-right:-85px">		
+					<li class="{% if page.url == "/" %}active{% endif %}"><a data-toggle="tooltip" title="Startseite" data-placement="bottom" href="/"><img style="margin-top:-5px"src="/public/images/bauernhaus_bauer_logo.png"></a></li>		
 					<li class="{% if page.url == "/solidarische_landwirtschaft/" %}active{% endif %}"><a href="/solidarische_landwirtschaft/">Solidarische Landwirtschaft</a></li> 				
 					<li class="dropdown dropdown-hover {% if page.url == "/mitglieder/" or page.url == "/hof/" %}active{% endif %}">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Wer wir sind <span class="caret"></span></a>

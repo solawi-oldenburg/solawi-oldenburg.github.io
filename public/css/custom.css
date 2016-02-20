@@ -1,3 +1,7 @@
+div.tooltip {
+    top: 45px !important;   
+}
+
 .minus_left {
 	margin-left: -20px;
 }
