@@ -3,10 +3,8 @@ published: true
 layout: post
 categories: 
   - hof
-title: Solidarische Landwirtschaft in Oldenburg
+title: "Rundbrief 1: Solidarische Landwirtschaft in Oldenburg"
 ---
-
-## A New Post
 
 Liebe Interessierte,
 
