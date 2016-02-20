@@ -1,5 +1,5 @@
 $(window).bind('scroll', function() {
-   if ($(window).scrollTop() > 33) {
+   if ($(window).scrollTop() > 28) {
        $('.navbar').addClass('colored-navbar');
    }
    else {
