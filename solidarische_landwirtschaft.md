@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ## Solidarische Landwirtschaft
 
 - Gemeinsam Landwirtschaft gestalten
@@ -21,3 +22,6 @@ Die Gruppe der Abnehmenden finanziert die jährlichen Gesamtkosten des Hofes. Da
 Die Abnehmenden teilen sich die Ernte des Hofes. Sie erleben die einzelnen Schritte der bäuerlichen Arbeit, können erfahren, wie ihre Lebensmittel hergestellt werden und in Teilen auch selbst aktiv mitarbeiten. Die Art und Menge der hergestellten Lebensmittel ist auf die Bedürfnisse der Mitglieder abgestimmt, Über- oder Fehlproduktion werden so vermieden. 
 
 Alle teilen sich auf diese Weise die Verantwortung für einen Hof und sichern sein Bestehen. Sie tragen dazu bei, eine vielfältige kleinbäuerliche und regionale Landwirtschaft zu erhalten.
+
+![913674_441424985951663_1396870485_o.jpg]({{site.baseurl}}/public/images/913674_441424985951663_1396870485_o.jpg)
+
