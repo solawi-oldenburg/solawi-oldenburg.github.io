@@ -1,11 +1,11 @@
-@media (min-width: 1200px) {
-    .container{
-        max-width: 800px;
-    }
+@media (min-width: 800px) {
+	.container{
+		max-width: 800px;
+	}
 }
 
 div.tooltip {
-    top: 45px !important;   
+	top: 45px !important;   
 }
 
 .minus_left {
@@ -102,7 +102,17 @@ html {
 	z-index: 9999 !important;	
 }
 
+.affix + .navbar {
+	margin-top: 0px;
+}
+
+.affix + .container {
+	padding-top: 100px;
+}
+
 .navbar {
+	margin-top: 18px;	
+	border: 0px;	
 	background-color: transparent;
 	background: transparent;
 	border-color: transparent;
@@ -112,12 +122,13 @@ html {
 }
 
 .colored-navbar{	
+	margin-top: 0px;	
 	border: 0px;
 	background: url("/public/images/weide.jpg") no-repeat left top;
 }
 
 h1, h2, h3, h4 {
-	margin-top: 40px;
+	margin-top: 15px;
 	font-family: 'Vollkorn', serif;	
 }
 
@@ -130,12 +141,12 @@ html {
 }
 
 body {
-	margin-bottom: 80px;
+	margin-bottom: 50px;
 }
 .footer {
 	position: absolute;
 	bottom: 0;
 	text-align: center;
 	width: 100%;
-	height: 37px;
+	height: 25px;
 }

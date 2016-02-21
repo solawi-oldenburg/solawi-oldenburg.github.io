@@ -70,7 +70,9 @@
   color: black;
   background-color: transparent;
 }
-.navbar-default .navbar-toggle {
+
+
+/*.navbar-default .navbar-toggle {
   border-color: transparent;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -79,6 +81,8 @@
 .navbar-default .navbar-toggle .icon-bar {
   background-color: transparent;
 }
+*/
+
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: transparent;
