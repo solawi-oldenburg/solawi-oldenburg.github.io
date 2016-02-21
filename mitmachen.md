@@ -49,6 +49,7 @@ Die Richtwerte für 1 Ernteanteil sind 150 € (vegetarisch / vegan) oder 180 �
 
 Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren. Weiterhin hätten wir gerne ein Depot in Oldenburg, an welches ein Teil der Lebensmittel geliefert wird.
 
+<br>
 <div class="row">
 	<div class="col-sm-4">
 		<h3>Informiert bleiben</h3>
@@ -85,4 +86,5 @@ Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. In Koorperatio
 	</div>
 </div>
 
+<br>
 ![P1130613.JPG]({{site.baseurl}}/public/images/P1130613.JPG)
