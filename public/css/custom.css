@@ -1,13 +1,7 @@
-@media (min-width: 765px) and (max-width: 1120px) {
-    .hidden-below-middle-above-small {
-        display:none !important;
-    }
-}
-
 @media (max-width: 1120px) {
-    .hidden-below-middle {
-        display:none !important;
-    }
+	.hidden-below-middle {
+		display:none !important;
+	}
 }
 
 /** bei großen Monitoren trotzdem schmal bleiben **/
@@ -23,11 +17,6 @@ div.tooltip {
 
 .minus_left {
 	margin-left: -20px;
-}
-
-.banner {
-	background: url("/public/images/weide.jpg") no-repeat left top;
-	height: 90px;
 }
 
 .sidebar {
@@ -81,7 +70,6 @@ img {
 	color: #5e4b46;
 }
 
-
 .carousel-indicators {
 	bottom:-2px;
 }
@@ -109,36 +97,35 @@ html {
 	overflow-y: scroll; /* prevent scrollbar from repositioning web page */		
 }
 
-.affix {
-	top:0;
-	width: 100%;
-	z-index: 9999 !important;	
-}
-
-.affix + .navbar {
-	margin-top: 0px;
-}
-
-.affix + .container {
-	padding-top: 100px;
+.banner {
+	background: url("/public/images/weide.jpg") no-repeat left top;
+	height: 122px;
 }
 
 .navbar {
-	margin-top: 18px;	
 	border: 0px;	
 	background-color: transparent;
-	background: transparent;
+	background: url("/public/images/weide_unten.jpg") no-repeat left top;
 	border-color: transparent;
 	font-family: 'Vollkorn', serif;
 	font-size: 120%;
 	border-radius: 0px;	
 }
 
-.colored-navbar{	
-	margin-top: 0px;	
-	border: 0px;
-	height: 52px;
-	background: url("/public/images/weide.jpg") no-repeat left top;
+@media (min-width: 765px) {
+	.navbar {
+		height: 52px;		
+	}
+}
+
+.affix {
+	top:0;
+	width: 100%;
+	z-index: 9999 !important;	
+}
+
+.affix + .container {
+	padding-top: 70px;
 }
 
 h1, h2, h3, h4 {

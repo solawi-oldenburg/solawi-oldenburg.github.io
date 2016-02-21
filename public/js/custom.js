@@ -1,14 +1,3 @@
-$(window).bind('scroll', function() {
-   if ($(window).scrollTop() > 17) {
-       $('.navbar').addClass('colored-navbar');
-   }
-   else {
-       $('.navbar').removeClass('colored-navbar');       
-   }
-});
-
-
-
 // open menu dropdown on mouseover
 $(function () {
     $(".dropdown-hover").hover(
