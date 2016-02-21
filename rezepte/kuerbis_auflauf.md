@@ -5,6 +5,7 @@ title: Kürbis Auflauf
 ---
 
 
+
 ## Kürbis Auflauf
 
 Arbeitszeit: 15 Min<br>
@@ -27,7 +28,7 @@ Drei Dinge parallel:
 		- kurz vor Ende dazu
 <br><br>
 3. Soße machen
-	- Sahne, oder [vegane Reissauce](https://vollwert.wordpress.com/2015/03/16/noch-einmal-stutzcremes/):
+	- Sahne, oder [vegane Reissoße](https://vollwert.wordpress.com/2015/03/16/noch-einmal-stutzcremes/):
 	- 60 g Reis so fein wie möglich mahlen (in Getreidemühle oder Hochleistungsmixer)
 	- 120 ml Wasser
 		- mit Reismehl in kleinen Topf
