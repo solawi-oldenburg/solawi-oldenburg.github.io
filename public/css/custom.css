@@ -124,6 +124,7 @@ html {
 .colored-navbar{	
 	margin-top: 0px;	
 	border: 0px;
+	height: 52px;
 	background: url("/public/images/weide.jpg") no-repeat left top;
 }
 
