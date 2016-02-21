@@ -7,12 +7,11 @@
 }
 
 
-
-
-.navbar-default .navbar-nav .open .dropdown-menu {
-  background-color: #8ba9e6;
+@media (min-width: 765px) {
+  .navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #8ba9e6;
+  }
 }
-
 
 
 .navbar .nav .active > a {

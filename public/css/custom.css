@@ -1,3 +1,16 @@
+@media (min-width: 765px) and (max-width: 1120px) {
+    .hidden-below-middle-above-small {
+        display:none !important;
+    }
+}
+
+@media (max-width: 1120px) {
+    .hidden-below-middle {
+        display:none !important;
+    }
+}
+
+/** bei großen Monitoren trotzdem schmal bleiben **/
 @media (min-width: 800px) {
 	.container{
 		max-width: 800px;
