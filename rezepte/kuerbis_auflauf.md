@@ -1,12 +1,13 @@
 ---
+published: true
 layout: recipe
 title: Kürbis Auflauf
 ---
 
+
 ## Kürbis Auflauf
 
 Arbeitszeit: 15 Min<br>
-Benötigt Getreidemühle oder Hochleistungsmixer
 
 Drei Dinge parallel:
 
@@ -25,10 +26,11 @@ Drei Dinge parallel:
 	- 2 Zehen Knoblauch
 		- kurz vor Ende dazu
 <br><br>
-3. Sauße machen
-	- 60 g Reis so fein wie möglich mahlen
+3. Soße machen
+	- Sahne, oder [vegane Reissauce](https://vollwert.wordpress.com/2015/03/16/noch-einmal-stutzcremes/):
+	- 60 g Reis so fein wie möglich mahlen (in Getreidemühle oder Hochleistungsmixer)
 	- 120 ml Wasser
-		- in kleinen Topf
+		- mit Reismehl in kleinen Topf
 		- aufkochen
 		- mit Wisp umrühren
 		- nach Geschmack würzen (Salz, Pfeffer, Gemüsebrühe)
