@@ -6,15 +6,16 @@ published: true
 
 
 
+
 ## Impressum
 
 ### Postadresse
-Ökumenisches Zentrum Oldenburg e.V.
-Kleine Kirchenstr. 12
+Ökumenisches Zentrum Oldenburg e.V.<br>
+Kleine Kirchenstr. 12<br>
 26122 Oldenburg
 
 ### Digitale Kontaktaufnahme
-E-Mail: solawi-ol@oezo.de <br>
+E-Mail: solawi-ol@oezo.de<br>
 Telefon: 01578 9494744
 
 
