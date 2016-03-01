@@ -23,5 +23,7 @@ Die Abnehmenden teilen sich die Ernte des Hofes. Sie erleben die einzelnen Schri
 
 Alle teilen sich auf diese Weise die Verantwortung für einen Hof und sichern sein Bestehen. Sie tragen dazu bei, eine vielfältige kleinbäuerliche und regionale Landwirtschaft zu erhalten.
 
+Weitere Infos: [www.solidarische-landwirtschaft.org](http://www.solidarische-landwirtschaft.org)
+
 ![913674_441424985951663_1396870485_o.jpg]({{site.baseurl}}/public/images/913674_441424985951663_1396870485_o.jpg)
 
