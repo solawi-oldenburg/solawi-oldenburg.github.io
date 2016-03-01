@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Solidarische Landwirtschaft
 
 - Gemeinsam Landwirtschaft gestalten
@@ -25,5 +26,7 @@ Alle teilen sich auf diese Weise die Verantwortung für einen Hof und sichern se
 
 Weitere Infos: [www.solidarische-landwirtschaft.org](http://www.solidarische-landwirtschaft.org)
 
-![913674_441424985951663_1396870485_o.jpg]({{site.baseurl}}/public/images/913674_441424985951663_1396870485_o.jpg)
+[Film über solidarische Landwirtschaft im NDR](www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 
+
+![913674_441424985951663_1396870485_o.jpg]({{site.baseurl}}/public/images/913674_441424985951663_1396870485_o.jpg)
