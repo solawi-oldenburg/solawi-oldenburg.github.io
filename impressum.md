@@ -5,14 +5,17 @@ published: true
 ---
 
 
+
 ## Impressum
 
 ### Postadresse
-Meine Adresse
+Ökumenisches Zentrum Oldenburg e.V.
+Kleine Kirchenstr. 12
+26122 Oldenburg
 
 ### Digitale Kontaktaufnahme
-E-Mail: Todo Mailadresse <br>
-Telefon: Todo Nummer
+E-Mail: solawi-ol@oezo.de <br>
+Telefon: 01578 9494744
 
 
 ### Disclaimer – rechtliche Hinweise
