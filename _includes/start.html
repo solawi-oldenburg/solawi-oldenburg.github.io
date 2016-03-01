@@ -1,4 +1,4 @@
-<div id="carousel-example-generic" class="carousel slide center-block" data-ride="carousel">
+<div style="margin:17px; margin-top:0px" id="carousel-example-generic" class="carousel slide center-block" data-ride="carousel">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
 		<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -74,9 +74,9 @@
 </a>
 </div>
 
-
 <div class="col-sm-9 col-md-8">
-	<div style="margin-top:-30px">
+	<div>
+		<h2>Neuigkeiten</h2>
 		{% if page.url  == "/" or page.url contains "seite" %}
 		{% assign posts = paginator.posts %}
 		{% else %}
@@ -85,10 +85,10 @@
 		{% for post in posts %}
 		{% assign filter = page.url | remove: "blog" | replace: '/', '' %}
 		{% if page.url  == "/" or page.url contains "seite" or post.categories contains filter %}
-		<div class="post" style="margin-top:70px">
-			<h2 class="post-title">
+		<div class="post" style="margin-bottom:70px">
+			<h3 class="post-title">
 				<a href="{{ post.url }}">{{ post.title }}</a>	
-			</h2>
+			</h3>
 			<p class="post-date" style="color: gray">
 				{% assign m = post.date | date: "%-m" %}
 				{{ post.date | date: "%-d" }}

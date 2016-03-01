@@ -70,6 +70,12 @@ img {
 	color: #5e4b46;
 }
 
+@media (max-height: 710px) {
+	#carousel-example-generic.carousel.slide {max-width: 600px; !important}
+}
+@media (max-height: 610px) {
+	#carousel-example-generic.carousel.slide {max-width: 500px; !important}
+}
 .carousel-indicators {
 	bottom:-2px;
 }
