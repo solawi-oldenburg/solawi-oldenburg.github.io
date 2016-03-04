@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Solidarische Landwirtschaft
 
 - Gemeinsam Landwirtschaft gestalten
@@ -25,7 +26,7 @@ Die Abnehmenden teilen sich die Ernte des Hofes. Sie erleben die einzelnen Schri
 
 Alle teilen sich auf diese Weise die Verantwortung für einen Hof und sichern sein Bestehen. Sie tragen dazu bei, eine vielfältige kleinbäuerliche und regionale Landwirtschaft zu erhalten.
 
-Weitere Infos:
+Weitere Infos:<br>
 - [Netzwerk-Website der solidarischen Landwirtschaft](http://www.solidarische-landwirtschaft.org/)
 - [Film über solidarische Landwirtschaft im NDR](http://www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 
