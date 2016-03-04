@@ -53,7 +53,7 @@ Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorper
 		<h3>Informiert bleiben</h3>
 		<p>
 			Wir berichten in unserem rund zweimonatlichen Newsletter von unserem Fortschritt:
-			<form action="todo" method="post" style="width:220px">
+			<form action="http://pooleapp.com/stash/945ba4e6-54e0-40b5-ba8b-02e42a16e9e3/" method="post" style="width:220px">
 				<div class="form-group">
 					<input type="text" name="name" class="form-control" placeholder="Name">
 				</div>				
