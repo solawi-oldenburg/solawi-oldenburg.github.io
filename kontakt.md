@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Kontakt
+published: true
 ---
 
+
 ## Kontakt
-Schreibe an [solawi-ol@oezo.de](mailto:solawi-ol@oezo.de) oder nutze dieses Formular:
+Schreibe an [solawi-ol@oezo.de](mailto:kontakt@solawi-oldenburg.de) oder nutze dieses Formular:
 
 <div class="row">
 	<div class="col-sm-6">
