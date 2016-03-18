@@ -33,7 +33,7 @@ Drei Dinge parallel:
 	- 120 ml Wasser
 		- mit Reismehl in kleinen Topf
 		- aufkochen
-		- mit Wisp umrühren
+		- mit Schneebesen umrühren
 		- nach Geschmack würzen (Salz, Pfeffer, Gemüsebrühe)
 
 - Alles in einer Auflaufform mischen, ggf. mit Käse oder Hefeflocken bestreuen
