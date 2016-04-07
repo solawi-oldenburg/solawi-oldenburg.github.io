@@ -5,7 +5,7 @@ categories:
   - hof
   - welt
   - veranstaltung
-title: "Zweimonatlicher Rundbrief "
+title: "Rundbrief 2: Hof in Aussicht, Veranstaltungstipps"
 ---
 
 Neben Veranstaltungen auf denen wir die Idee verbreiten, wie unserem Stand auf der VHS-Regionalmesse "aufgetischt", beschäftigen uns aktuell folgende Themen:
