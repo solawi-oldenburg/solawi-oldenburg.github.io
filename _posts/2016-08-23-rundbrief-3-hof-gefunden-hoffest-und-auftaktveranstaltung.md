@@ -6,12 +6,6 @@ categories:
   - hof
   - veranstaltung
 ---
-Liebe Solawi-Interessierte,<br>
-es wird konkret mit der Solidarischen Landwirtschaft in Oldenburg und umzu, 2017 kann es losgehen. Am 28. August könnt ihr euch den Hof beim Hoffest anschauen. Die Auftaktveranstaltung mit Detailinformationen erfolgt am 16.10. in Oldenburg am Welternährungstag. Zuletzt möchten wir euch auf das weitere Programm rund um lokale Ernährung hinweisen.
-
-Herzliche Grüße & wir freuen uns auf euch!<br>
-Das Orgateam
-
 ### Hof gefunden!
 Drei junge Familien übernehmen im Sommer 2017 als neue Pächter die Hofgemeinschaft Grummersort und führen die biologisch-dynamische Arbeit an diesem Ort weiter. Die neue Hofgruppe besteht aus sechs Erwachsenen und sechs Kindern: Eva Rotter und Sebastian Mall mit Benjamin, Elias und Amalie, Marie Martensen und Christoph Zimmermann mit Mia und Julia und Eike Frahm mit Thole und Mascha
 
