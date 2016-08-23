@@ -6,10 +6,10 @@ categories:
   - hof
   - veranstaltung
 ---
-Liebe Solawi-Interessierte,
+Liebe Solawi-Interessierte,<br>
 es wird konkret mit der Solidarischen Landwirtschaft in Oldenburg und umzu, 2017 kann es losgehen. Am 28. August könnt ihr euch den Hof beim Hoffest anschauen. Die Auftaktveranstaltung mit Detailinformationen erfolgt am 16.10. in Oldenburg am Welternährungstag. Zuletzt möchten wir euch auf das weitere Programm rund um lokale Ernährung hinweisen.
 
-Herzliche Grüße & wir freuen uns auf euch!
+Herzliche Grüße & wir freuen uns auf euch!<br>
 Das Orgateam
 
 ### Hof gefunden!
@@ -35,29 +35,30 @@ Am Sonntag, den 16.10 findet um 18:00 im PFL in der Peterstraße 3 in Oldenburg 
 Danach starten wir die Planung und Suche der Verteilstationen. Die verbindliche Zusage treffen die Interessierten dann im März/April bei der konstituierenden Veranstaltung.
 
 ### Weiteres Programm am Welternähurngstag
-**Welternährungstag – Den Klimawandel aufessen**Sonntag, 16.10.'16  | 13-20:00  |  Foyer PFL, Peterstraße 3  | OL
+**Welternährungstag – Den Klimawandel aufessen**<br>
+Sonntag, 16.10.'16  | 13-20:00  |  Foyer PFL, Peterstraße 3  | OL
 Eintritt frei
 
 Am Welternährungstag dreht sich alles um klimasinnige, lokale Ideen rund um gutes Essen und gute Landwirtschaft im globalen Austausch. Ideenquelle ist auch das aktuelle Jahr der Hülsenfrüchte.
 
-**13:00 Kurzfilm + Gespräch  |  Der Politische Suppentopf – Kochend die Welt verändern**
-Bericht über den Auftakt zur Gründung eines „Ernährungsrates“ in Oldenburg
+**13:00 Kurzfilm + Gespräch  |  Der Politische Suppentopf – Kochend die Welt verändern**<br>
+Bericht über den Auftakt zur Gründung eines „Ernährungsrates“ in Oldenburg<br>
 Mit: Ilka Wäsche, Eine-Welt-Promotorin und Initiatorin
 
-**14:00 Vortrag + Gespräch | Sortenpaten gesucht**
-200 alte Gemüsesorten in Ostfriesland gefunden – Paten gesucht
+**14:00 Vortrag + Gespräch | Sortenpaten gesucht**<br>
+200 alte Gemüsesorten in Ostfriesland gefunden – Paten gesucht<br>
 Mit: Reinhard Lühring (Naturlandbauer, Saatgutexperte aus Rhauderfehn)
 
-**15:00 Vortrag + Gespräch | Bohnen und Erbsen in den Trog**
-Lokales Eiweißfutter statt Soja aus Lateinamerika
+**15:00 Vortrag + Gespräch | Bohnen und Erbsen in den Trog**<br>
+Lokales Eiweißfutter statt Soja aus Lateinamerika<br>
 Mit: Andreas Huhn (Landwirt, Koordinator des Projekts „Eiweißfutter für Niedersachsen“)
 
-**16:00 Kurzworkshop | Lebensmittel wiederbeleben mit Fermentation**
-Haltbar machen mit Luft (Mikroorganismen aus der Luft) und Liebe
+**16:00 Kurzworkshop | Lebensmittel wiederbeleben mit Fermentation**<br>
+Haltbar machen mit Luft (Mikroorganismen aus der Luft) und Liebe<br>
 Mit: Patricia Lauer (Inhaberin des StartUps isEdel)
 
-**18:00 Auftaktveranstaltung | Solidarische Landwirtschaft in Oldenburg**
-Einführung und Infos zur Mitgliedschaft ab Mai 2017
+**18:00 Auftaktveranstaltung | Solidarische Landwirtschaft in Oldenburg**<br>
+Einführung und Infos zur Mitgliedschaft ab Mai 2017<br>
 Mit: Eike Frahm (Demeter-Landwirt, Hof Grummersort)
 
 In Kürze weitere Infos auf: [ven-nds.de/welternaehrungstag](http://ven-nds.de/welternaehrungstag)
