@@ -4,13 +4,6 @@ title: Solidarische Landwirtschaft
 published: true
 ---
 
-
-
-
-
-
-
-
 ## Solidarische Landwirtschaft
 
 - Gemeinsam Landwirtschaft gestalten
@@ -34,4 +27,4 @@ Weitere Infos:
 - [Film über solidarische Landwirtschaft im NDR](http://www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 
 
-![913674_441424985951663_1396870485_o.jpg]({{site.baseurl}}/public/images/913674_441424985951663_1396870485_o.jpg)
+![]({{site.baseurl}}/public/images/alle_im_heu.jpg)

@@ -23,5 +23,5 @@ Die Verbindung zwischen Stadt und Land wird weiter gestärkt und Raum geschaffen
 Mehr Infos zum Hof gibt es auf [hofgemeinschaft-grummersort.de](http://www.hofgemeinschaft-grummersort.de/).
 
 <br>
-![10995388_893111934080331_3598242695447142323_o.jpg]({{site.baseurl}}/public/images/10995388_893111934080331_3598242695447142323_o.jpg)
+![]({{site.baseurl}}/public/images/salat_tunnel.jpg)
 
