@@ -10,4 +10,4 @@ Anschließend gemeinsame Fahrt zu Möhrenacker.<br>
 Um 13 h gibt es eine Erntesuppe auf dem Acker und gegen 15.30 h kehren wir wieder auf den Hof zurück.<br>
 Bitte feste Schuhe oder Gummistiefel, Arbeitshandschuhe und Regenzeug mitbringen.<br>
 Ort: Hofgemeinschaft Grummersort, Hauptmoorweg 3, 27798 Hude<br>
-Bitte meldet euch bis zum 25.09. unter o[rga@solawi-oldenburg.de](mailto:rga@solawi-oldenburg.de) an, damit wir wissen wie groß der Topf für die Erntesuppe sein muss. 
+Bitte meldet euch bis zum 25.09. unter [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) an, damit wir wissen wie groß der Topf für die Erntesuppe sein muss. 
