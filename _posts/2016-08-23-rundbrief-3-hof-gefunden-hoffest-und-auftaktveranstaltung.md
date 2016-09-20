@@ -23,7 +23,7 @@ Erfahrungsbericht über die Solidarische Landwirtschaft Kattendorferhof mit Math
 Auf mit dem Fahrrad nach Grummersort: weitere geführte Fahradtouren starten ab der Waldorfschule (Blumenhof 9).
 Abfahrtzeiten: 10 Uhr, 11 Uhr (für Familien von Kindern, die ca. 13 km mit einer kleinen Pause fahren können), 12h und  13h
 
-### Auftaktveranstaltung am Welternähurngstag
+### Auftaktveranstaltung am Welternährungstag
 Am Sonntag, den 16.10 findet um 18:00 im PFL in der Peterstraße 3 in Oldenburg die Infoveranstaltung zur Solidarischen Landwirtschaft Oldenburg statt. Von Basisinfos zur Frage wie die Solidarische Landwirtschaft funktioniert bis zu Detailinformationen wie ein Ernteanteil genau aussehen wird und was bis zum Start im Mai 2017 noch zu tun ist, werden hier viele Fragen beantwortet.
 
 Danach starten wir die Planung und Suche der Verteilstationen. Die verbindliche Zusage treffen die Interessierten dann im März/April bei der konstituierenden Veranstaltung.
