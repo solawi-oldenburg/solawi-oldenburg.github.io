@@ -135,10 +135,17 @@ html {
 	padding-top: 70px;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	margin-top: 15px;
 	font-family: 'Vollkorn', serif;	
 }
+
+h4 {
+	margin-top: 20px;
+	margin-bottom: 4px;
+	font-weight: bold;	
+}
+
 
 
 /* Sticky footer styles
