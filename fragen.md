@@ -28,7 +28,7 @@ Die Solidarische Landwirt soll langfristig auf dem Hof weiter wachsen und mehr V
 Der Ernteanteil bedeutet einen festen Anteil an der erzeugten Menge des Hoffes. Hinter jedem Ernteanteil steht eine bestimmte Anbaufläche des Hofes. Zum Beispiel sind konkrete Tomatenreihen für die Solawi bestimmt. Das bedeutet, dass sich die Tomatenmenge pro Woche von einer Tomate pro Woche langsam steigert auf bis zu 1,5 kg pro Woche Ende Juli bis Mitte August, danach nimmt die Erntemenge wieder ab. 
 Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die Solawi-Mitglieder bleiben sie in der Kiste, so dass jede/r alle Erträge des Ernteanteils erhält.
 
-#### Wo kann ich die Lebensmittelabholen?
+#### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Desweiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
 #### Wie und wann kann ich Mitglied werden?
