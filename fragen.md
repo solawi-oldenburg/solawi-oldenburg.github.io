@@ -29,7 +29,7 @@ Der Ernteanteil bedeutet einen festen Anteil an der erzeugten Menge des Hoffes. 
 Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die Solawi-Mitglieder bleiben sie in der Kiste, so dass jede/r alle Erträge des Ernteanteils erhält.
 
 #### Wo kann ich die Lebensmittel abholen?
-Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Desweiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
+Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
 #### Wie und wann kann ich Mitglied werden?
 Am Sonntag, den 16.10, findet um 18:00 im PFL in der Peterstraße 3 in Oldenburg die Infoveranstaltung zur Solidarischen Landwirtschaft Oldenburg statt. Von Basisinfos zur Frage wie die Solidarische Landwirtschaft funktioniert bis zu Detailinformationen wie ein Ernteanteil genau aussehen wird und was bis zum Start im Mai 2017 noch zu tun ist, werden hier viele Fragen beantwortet.
