@@ -48,7 +48,7 @@ Im Februar 2018 wird auf das Jahr 2017 zurück geschaut  und der neue Etat für 
 Der Beitrag zur Deckung der Kosten des Hofes wird monatlich bezahlt.
 
 #### Welches Risiko trage ich als Mitglied?
-Als Mitglied trage ich das Risiko, dass ich nicht eine ganz bestimmte Menge Gemüse zu vereinbarten Zeitpunkt bekomme. Fällt die Ernte einer Kultur niedriger aus als erwartet, kann weniger verteilt werden, fällt sie höher aus, kann mehr verteilt werden.
+Als Mitglied trage ich das Risiko, dass ich nicht eine ganz bestimmte Menge Gemüse zum vereinbarten Zeitpunkt bekomme. Fällt die Ernte einer Kultur niedriger aus als erwartet, kann weniger verteilt werden, fällt sie höher aus, kann mehr verteilt werden.
 Die finanziellen Verbindlichkeiten und die rechtliche Verantwortung für den Hof tragen die Landwirte. (siehe: "Welche Geschäftsform hat der Hof?")
 
 #### Welche Geschäftsform hat der Hof und was bedeutet das?
@@ -67,5 +67,5 @@ Das Organistionsteam der Solawi-Oldenburg trifft sich derzeit vierzehntägig im 
 Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenburg entscheiden, da wir landwirtschaftlich für ein Anbaujahr planen. Es besteht trotzdem die Möglichkeit, die Solawi monatlich zu verlassen und den Ernteanteil abzugeben. Im besten Fall finden Sie eine/n NachfolgerIn, der/die Ihren Teil der Verantwortung für den Hof übernimmt.  
 
 #### Woher kommt das verwendete Saatgut / die Jungpflanzen?
-Ein Teil unsere Jungpflanzen beziehen wir über die Bioland Gärtnerei Homann, die uns alle zwei Wochen mit neuen Pflanzen beliefert. In den Sommermonaten ziehen wir den größten Teil unserer Jungpflanzen selbst in unserem Gewächshaus vor.
+Einen Teil unsere Jungpflanzen beziehen wir über die Bioland Gärtnerei Homann, die uns alle zwei Wochen mit neuen Pflanzen beliefert. In den Sommermonaten ziehen wir den größten Teil unserer Jungpflanzen selbst in unserem Gewächshaus vor.
 Wir beziehen das meiste Saatgut von der Bingenheimer Saatgut AG aus biologisch-dynamischer Züchtung. Bei manchen Kulturen setzen wir Hybrid-Saatgut anderer Saatguthersteller ein, wenn wir mit den samenfesten Sorten nicht zufrieden sind. Bei vielen Kulturen werden zwei unterschiedliche Sorten angebaut, um das Ausfallrisiko etwas zu senken.
