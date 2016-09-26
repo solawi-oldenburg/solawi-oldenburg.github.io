@@ -25,7 +25,7 @@ Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewa
 Die Solidarische Landwirt soll langfristig auf dem Hof weiter wachsen und mehr Verantwortung tragen. Das Jahr 2017 wird ein Testlauf für die Solawi-Gruppe und die Hofgemeinschaft. Im Frühjahr 2018 wird dann beurteilt wie das Jahr gelaufen ist und ob wir uns zutrauen weitere Ernteanteile zu vergeben. 
 
 #### Wie kann ich sicher sein, dass ich als Solawi-Mitglied nicht die Lebensmittel erhalte, die auf dem Markt nicht verkauft werden können?
-Der Ernteanteil bedeutet einen festen Anteil an der erzeugten Menge des Hoffes. Hinter jedem Ernteanteil steht eine bestimmte Anbaufläche des Hofes. Zum Beispiel sind konkrete Tomatenreihen für die Solawi bestimmt. Das bedeutet, dass sich die Tomatenmenge pro Woche von einer Tomate pro Woche langsam steigert auf bis zu 1,5 kg proWoche Ende Juli bis Mitte August, danach nimmt die Erntemenge wieder ab. 
+Der Ernteanteil bedeutet einen festen Anteil an der erzeugten Menge des Hoffes. Hinter jedem Ernteanteil steht eine bestimmte Anbaufläche des Hofes. Zum Beispiel sind konkrete Tomatenreihen für die Solawi bestimmt. Das bedeutet, dass sich die Tomatenmenge pro Woche von einer Tomate pro Woche langsam steigert auf bis zu 1,5 kg pro Woche Ende Juli bis Mitte August, danach nimmt die Erntemenge wieder ab. 
 Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die Solawi-Mitglieder bleiben sie in der Kiste, so dass jede/r alle Erträge des Ernteanteils erhält.
 
 #### Wo kann ich die Lebensmittelabholen?
