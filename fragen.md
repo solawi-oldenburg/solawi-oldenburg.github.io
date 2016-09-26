@@ -19,7 +19,7 @@ Es werden 70 Ernteanteile für das Anbaujahr 2017 verteilt.
 Die Solawi Oldenburg ist kein Lieferservice wie z.B. eine Abo- oder Hofkiste, da dies mit einem hohen personellen Aufwand verbunden wäre. Am Abholtag auf dem Hof besteht jedoch die Möglichkeit Obst und Gemüse von anderen biologisch wirtschaftenden Betrieben zuzukaufen. 
 
 #### Warum wird der Hof nicht zu 100% solidarisch bewirtschaftet?
-Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewachsen, der eine große Anzahl Menschen in der Umgebung mit Lebensmitteln aus biologisch-dynamischen Anbau versorgt. Der Hof bietet mitlerweile 20 MitarbeiterInnen einen Arbeitsplatz und trägt Verantwortung für über 60 ha landwirtschaftliche Flächen. Die über die vielen Jahre aufgebaute Direkvermarktungsstruktur wird erhalten bleiben, um der langjährigen Kundschaft des Hofes den gewohnten Weg zu den Hofprodukten zu erhalten.http://pad.solawi-oldenburg.de/p/Haeufige_Fragen
+Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewachsen, der eine große Anzahl Menschen in der Umgebung mit Lebensmitteln aus biologisch-dynamischen Anbau versorgt. Der Hof bietet mitlerweile 20 MitarbeiterInnen einen Arbeitsplatz und trägt Verantwortung für über 60 ha landwirtschaftliche Flächen. Die über die vielen Jahre aufgebaute Direkvermarktungsstruktur wird erhalten bleiben, um der langjährigen Kundschaft des Hofes den gewohnten Weg zu den Hofprodukten zu erhalten.
 
 #### Soll der Hof mittel- oder langfristig komplett solidarisch bewirtschaftet werden?
 Die Solidarische Landwirt soll langfristig auf dem Hof weiter wachsen und mehr Verantwortung tragen. Das Jahr 2017 wird ein Testlauf für die Solawi-Gruppe und die Hofgemeinschaft. Im Frühjahr 2018 wird dann beurteilt wie das Jahr gelaufen ist und ob wir uns zutrauen weitere Ernteanteile zu vergeben. 
@@ -69,5 +69,3 @@ Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenbu
 #### Woher kommt das verwendete Saatgut / die Jungpflanzen?
 Ein Teil unsere Jungpflanzen beziehen wir über die Bioland Gärtnerei Homann, die uns alle zwei Wochen mit neuen Pflanzen beliefert. In den Sommermonaten ziehen wir den größten Teil unserer Jungpflanzen selbst in unserem Gewächshaus vor.
 Wir beziehen das meiste Saatgut von der Bingenheimer Saatgut AG aus biologisch-dynamischer Züchtung. Bei manchen Kulturen setzen wir Hybrid-Saatgut anderer Saatguthersteller ein, wenn wir mit den samenfesten Sorten nicht zufrieden sind. Bei vielen Kulturen werden zwei unterschiedliche Sorten angebaut, um das Ausfallrisiko etwas zu senken.
-
-
