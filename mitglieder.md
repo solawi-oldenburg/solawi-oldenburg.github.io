@@ -12,7 +12,7 @@ published: true
 Wir sind eine Gruppe von Menschen aus Oldenburg und Umgebung. Zusammengefunden haben wir nach einer Veranstaltung im Rahmen der [Postwachstumsringvorlesung](http://www.postwachstumsoekonomie.de/) zum Thema Solidarische Landwirtschaft im Juni 2015. Dr. Tobias Hartkemeyer berichtete dort von seinem Hof Pente bei Osnabrück.
 Seither treffen wir uns alle zwei Wochen, um eine Solidarische Landwirtschaft für Oldenburg auf die Beine zu stellen. Unterstützt werden wir dabei von Ilka Wäsche, Eine-Welt-Promotorin im Ökumenischen Zentrum Oldenburg. Unsere Treffen finden im [Ökumenischen Zentrum](http://solawi-oldenburg.de/oezo/) statt. 
 
-
+<br>
 ### Unsere Beweggründe und Visionen
 Was wir erreichen wollen:
 
