@@ -15,6 +15,7 @@ Seither treffen wir uns alle zwei Wochen, um eine Solidarische Landwirtschaft f�
 
 ### Unsere Beweggründe und Visionen
 Was wir erreichen wollen:
+
 - Bäuerliche Arbeit wertschätzen und durch angemessene Entlohnung faire Arbeitsbedingungen ermöglichen 
 - Marktmacht, Profit-Orientierung und die Unterteilung in „ErzeugerInnen“ und „VerbraucherInnen“ hinterfragen
 - Die Stadt-Land-Beziehung stärken und die Verantwortung und Risiken der Erzeugung teilen
