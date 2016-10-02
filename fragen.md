@@ -16,7 +16,7 @@ Es wird einen vegetarischen Ernteanteil mit Gemüse, Brot, Eiern und Milchproduk
 Es werden 70 Ernteanteile für das Anbaujahr 2017 verteilt.
 
 #### Kann ich zum wöchentlichen Anteil Lebensmittel dazu bestellen, die nicht auf dem Hof erzeugt werden?
-Die Solawi Oldenburg ist kein Lieferservice wie z.B. eine Abo- oder Hofkiste, da dies mit einem hohen personellen Aufwand verbunden wäre. Am Abholtag auf dem Hof besteht jedoch die Möglichkeit Obst und Gemüse von anderen biologisch wirtschaftenden Betrieben zuzukaufen. 
+Wie gehabt kann an unseren Marktständen und über unsere Hofkiste Obst, Gemüse und Milchprodukte von von anderen biologisch wirtschaftenden Betrieben bezogen werden.
 
 #### Warum wird der Hof nicht zu 100% solidarisch bewirtschaftet?
 Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewachsen, der eine große Anzahl Menschen in der Umgebung mit Lebensmitteln aus biologisch-dynamischen Anbau versorgt. Der Hof bietet mitlerweile 20 MitarbeiterInnen einen Arbeitsplatz und trägt Verantwortung für über 60 ha landwirtschaftliche Flächen. Die über die vielen Jahre aufgebaute Direkvermarktungsstruktur wird erhalten bleiben, um der langjährigen Kundschaft des Hofes den gewohnten Weg zu den Hofprodukten zu erhalten.
