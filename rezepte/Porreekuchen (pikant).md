@@ -7,6 +7,7 @@ title: Porreekuchen (pikant)
 Zutaten für ein Blech:
 
 Hefeteig
+
 - 300 g Dinkelvollkornmehl
 - 1 Pck. Trockenhefe
 - 150 ml lauwarmes Wasser
@@ -14,6 +15,7 @@ Hefeteig
 - Je 1 TL Salz und Zucker
 
 Belag
+
 - 1 kg Porree
 - Etwas Olivenöl
 - Kümmel, Salz, Pfeffer
@@ -24,8 +26,7 @@ Belag
 - 200 Gouda (z.B. Hofgouda)
 - Olivenöl für das Blech
 
-Zubereitung:
-
+Zubereitung:<br>
 Die Teigzutaten miteinander vermengen und einen schönen Hefeteig daraus arbeiten. Der Teig sollte nicht an den Händen kleben, 
 sollte er sich jedoch zu trocken anfühlen, kann etwas mehr Wasser
  verwendet werden.  Den Teig in der Schüssel, abgedeckt mit 
