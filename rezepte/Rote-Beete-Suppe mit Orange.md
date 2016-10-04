@@ -4,7 +4,7 @@ title: Rote-Beete-Suppe mit Orange
 ---
 ## Rote-Beete-Suppe mit Orange
 
-Zutaten für vier Portionen:
+Zutaten für vier Portionen:<br>
 - 2 große Rote Beeten
 - 1 große Möhre
 - 1 Zwiebel
@@ -14,7 +14,7 @@ Zutaten für vier Portionen:
 - Schale und Saft von je einer Zitrone und einer Orange
 - 1 Becher Crème fraîche
 
-Zubereitung:
+Zubereitung:<br>
 Rote Beete und Möhre schälen und klein würfeln. Zwiebel abziehen und fein würfeln. Ingwer schälen und fein hacken. Olivenöl in 
 einem Topf erhitzen. Zwiebel im Öl glasig dünsten. Zunächst Pfeffer und Ingwer hinzugeben und gut umrühren. Anschließend Rote 
 Beete, Möhre und Salz hinzugeben. Alles gut durchrühren und mit Wasser auffüllen, so, dass die Spitzen des Gemüses noch 
