@@ -5,6 +5,7 @@ title: Hirsebratlinge
 ## Hirsebratlinge
 
 Zutaten für etwa 10 Bratlinge (je nach Größe):
+
 - 1 kleine Zwiebel
 - Etwas Olivenöl
 - 150 g Hirse
