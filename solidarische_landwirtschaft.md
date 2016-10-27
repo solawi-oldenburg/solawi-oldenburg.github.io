@@ -14,11 +14,11 @@ Dies sind Grundgedanken der solidarischen Landwirtschaft.
 
 Das Konzept ist einfach: Ein Hof versorgt eine Gruppe von Menschen in der näheren Umgebung mit Lebensmitteln. Diese Gruppe stellt die dafür notwendigen Mittel durch eine finanzielle Teilnahme zur Verfügung. So entsteht eine neue Form der regionalen ökologischen Landwirtschaft.
 
-Die Gruppe der Abnehmenden finanziert die jährlichen Gesamtkosten des Hofes. Dadurch werden die Landwirt'innen unabhängig von schwankenden Marktpreisen. Sie erhalten Planungssicherheit, können verantwortungsvoll arbeiten und die Bedürfnisse von Menschen, Tieren, Pflanzen und dem Boden gleichermaßen achten. 
+Die Gruppe der Mitglieder finanziert die jährlichen Gesamtkosten des Hofes. Dadurch werden die LandwirtInnen unabhängig von schwankenden Marktpreisen. Sie erhalten Planungssicherheit, können verantwortungsvoll arbeiten und die Bedürfnisse von Menschen, Tieren, Pflanzen und dem Boden gleichermaßen achten. 
 
-Die Abnehmenden teilen sich die Ernte des Hofes. Sie erleben die einzelnen Schritte der bäuerlichen Arbeit, können erfahren, wie ihre Lebensmittel hergestellt werden und in Teilen auch selbst aktiv mitarbeiten. Die Art und Menge der hergestellten Lebensmittel ist auf die Bedürfnisse der Abnehmenden abgestimmt. Über- oder Fehlproduktion wird so vermieden. 
+Die Mitglieder teilen sich die Ernte des Hofes. Sie erleben die einzelnen Schritte der bäuerlichen Arbeit, können erfahren, wie ihre Lebensmittel hergestellt werden und in Teilen auch selbst aktiv mitarbeiten. Die Art und Menge der hergestellten Lebensmittel ist auf die Bedürfnisse der Mitglieder abgestimmt. Über- oder Fehlproduktion wird so vermieden. 
 
-Die Landwirt'innen und Abnehmenden teilen sich auf diese Weise die Verantwortung für einen Hof und sichern sein Bestehen. Sie tragen dazu bei, eine vielfältige kleinbäuerliche und regionale Landwirtschaft zu erhalten.
+Die LandwirtInnen und Mitglieder teilen sich auf diese Weise die Verantwortung für einen Hof und sichern sein Bestehen. Sie tragen dazu bei, eine vielfältige kleinbäuerliche und regionale Landwirtschaft zu erhalten.
 
 Weitere Infos:
 
