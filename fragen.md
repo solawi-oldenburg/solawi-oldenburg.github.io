@@ -58,8 +58,9 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
 #### Wie und wann kann ich Mitglied werden?
-Am Sonntag, den 16.10, findet um 18:00 im PFL in der Peterstraße 3 in Oldenburg die Infoveranstaltung zur Solidarischen Landwirtschaft Oldenburg statt. Von Basisinfos zur Frage wie die Solidarische Landwirtschaft funktioniert bis zu Detailinformationen wie ein Ernteanteil genau aussehen wird und was bis zum Start im Mai 2017 noch zu tun ist, werden hier viele Fragen beantwortet.
-Danach starten wir die Planung und Suche der Verteilstationen. Die verbindliche Zusage treffen die Interessierten dann im März/April bei der konstituierenden Veranstaltung.
+Für unsere Planung möchten wie Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, wenn Sie verbindlich an einem Ernteanteil interessiert sind. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
+
+Anfang 2017 wird es dann ein Gründungstreffen geben, mit Bieterrunde und Vertragsabschluss für alle künftigen Mitglieder.
 
 #### Was passiert, wenn ich im Urlaub bin?
 Da der finanzielle Beitrag der Mitglieder zur Finanzierung der Landwirtschaft benötigt wird, muss er das ganze Kalenderjahr ohne Unterbrechung gezahlt werden. Die Tiere im Stall brauchen morgens und abends ihr Futter und wollen jeden Tag im Jahr gemolken werden. Gerade in den Ferienmonaten Juli und August gibt es die meiste Milch zu verarbeiten und die größte Menge Gemüse auf den Feldern zu ernten. 
