@@ -45,7 +45,7 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 
 Die Richtwerte für 1 Ernteanteil sind 150 € (vegetarisch / vegan) oder 180 € (Fleisch) monatlich. Der genaue Finanzbedarf für ein Ernteanteil wird zusammen mit dem Solawi-Hof zu Beginn der Anbausaison 2017 ermittelt.
 
-Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne ein Depot in Oldenburg, an welches ein Teil der Lebensmittel geliefert wird.
+Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne Depots in Oldenburg, an welche ein Teil der Lebensmittel geliefert wird.
 
 <br>
 <div class="row">
