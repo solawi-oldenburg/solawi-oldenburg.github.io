@@ -11,34 +11,39 @@ published: true
 
 Für das Erntejahr 2017 vergeben wir 60-70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
 
-Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung.
+Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung. Das sind:
 
 <div class="row" style="margin-top:30px; margin-bottom:20px">
 	<div class="col-sm-4">
-		Du unterhältst:
 		<ul class="minus_left">
-			<li>5 m² Gewächshaus</li>
-			<li>120 m² Gartenfläche</li>
-			<li>920 m² Ackerland</li>
-			<li>1320 m² Grünland</li>
-			<li>Ein Huhn</li>
-			<li>Acht Ernteanteile ermöglichen die Haltung einer Kuh und eines Schweins</li>
+<li>1,5 bis 3 kg Gemüse je nach Saison (Rotkohl, Weißkohl, Sellerie, Steckrüben, Lagerkohlrabi, Zwiebeln, Chinakohl, Kartoffeln, Möhren, Kürbis, Zucchini, Salate, Tomaten und Gurke)</li>
+<li>Kräuter und Salate</li>
+<li>1 kg Kartoffeln</li>
+<li>250 g Fleisch (Wurst gibt es über längere Zeiträume,frisches Schweine- und Rindfleisch immer dann wenn wieder geschlachtet wird)
+<li>1 Suppenhuhn pro Jahr</li>
+<li>1 Brot</li>
+<li>4 Eier</li>
+<li>Milchprodukte aus ca. 8 Liter verarbeiteter Milch</li>
 		</ul>
 	</div>
 	<div class="col-sm-4">
-		Je nach Jahreszeit und Witterung gibt es:
+Mögliches Milchprodukt-Paket 1:
 		<ul class="minus_left">
-			<li>Rotkohl, Weißkohl, Sellerie, Steckrüben, Lagerkohlrabi, Zwiebeln und Chinakohl</li>
-			<li>Kartoffeln, Möhren, Kürbis, Zucchini</li>
-			<li>Salate, Tomaten, Gurke</li>
+<li>1 l Milch</li>
+<li>500 ml Joghurt</li>
+<li>400 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)</li>
+<li>250 g Frischkäse</li>
+<li>350 g Quark</li>
 		</ul>
 	</div>
 	<div class="col-sm-4">
-		Neben dem Gemüse gibt es wöchentlich:
+Mögliches Milchprodukt-Paket 2:                           
 		<ul class="minus_left">
-	        <li>1 Brot</li>
-			<li>Milchprodukte aus 9 Litern Kuhmilch</li>
-			<li>4 Eier</li>			
+<li>3 l Milch</li>
+<li>1 l Joghurt</li>
+<li>200 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)</li>
+<li>250 g Frischkäse</li>
+<li>250 g Quark</li>		
 		</ul>
 	</div>
 </div>
