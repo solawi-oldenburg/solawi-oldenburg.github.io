@@ -4,39 +4,34 @@ title: Häufige Fragen
 published: true
 ---
 
-
-
-
 ## Häufige Fragen
 
 #### Gibt es vegane / vegetarische Anteile?
 Es wird einen vegetarischen Ernteanteil mit Gemüse, Brot, Eiern und Milchprodukten geben. Der vegetarische Anteil kostet weniger als der Anteil mit Fleisch, enhält aber einen Beitrag zur Tierhaltung, da die Tiere auf dem Demeter-Hof eine zentrale Rolle spielen und wir den Mist der Tiere für die Düngung des Gemüses benötigen. Es wird auch einen veganen Ernteanteil geben, der aus Gemüse und Brot besteht. Auch dieser Ernteanteil enthält einen Finanzbeitrag zur Tierhaltung. 
 
 #### Wie setzt sich ein Ernteanteil zusammen?
-1,5 bis 3 kg Gemüse je nach Saison
-Kräuter und Salate
-1 kg Kartoffeln
-250 g Fleisch (Wurst gibt es über längere Zeiträume,frisches Schweine- und Rindfleisch immer dann wenn wieder geschlachtet wird)
-1 Suppenhuhn/Jahr
-Milchprodukte aus ca. 8 Liter verarbeiteter Milch*
-1 Brot
-4 Eier
+- 1,5 bis 3 kg Gemüse je nach Saison
+- Kräuter und Salate
+- 1 kg Kartoffeln
+- 250 g Fleisch (Wurst gibt es über längere Zeiträume,frisches Schweine- und Rindfleisch immer dann wenn wieder geschlachtet wird)
+- 1 Suppenhuhn pro Jahr
+- 1 Brot
+- 4 Eier
+- Milchprodukte aus ca. 8 Liter verarbeiteter Milch. Hier zwei mögliche Milchprodukt-Pakete:
 
-* hier zwei mögliche Milchprodukt-Pakete
+  **Paket 1**
+- 1 l Milch
+- 500 ml Joghurt
+- 400 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)
+- 250 g Frischkäse
+- 350 g Quark
 
-##### Paket1
-1 l Milch
-500 ml Joghurt
-400 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)
-250 g Frischkäse
-350 g Quark
-
-##### Paket2                                
-3 l Milch
-1 l Joghurt
-200 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)
-250 g Frischkäse
-250 g Quark
+  ** Paket 2**                               
+  3 l Milch
+  1 l Joghurt
+  200 g Käse (Hofkäse,Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)
+  250 g Frischkäse
+  250 g Quark
 
 #### Wie viele Anteile werden verteilt?
 Es werden 70 Ernteanteile für das Anbaujahr 2017 verteilt.
