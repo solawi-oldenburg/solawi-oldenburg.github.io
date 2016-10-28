@@ -9,7 +9,7 @@ published: true
 
 ## Mitmachen
 
-Für das Erntejahr 2017 vergeben wir 70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
+Für das Erntejahr 2017 vergeben wir 60-70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
 
 Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung.
 
@@ -46,6 +46,8 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 Die Richtwerte für 1 Ernteanteil sind 150 € (vegetarisch / vegan) oder 180 € (Fleisch) monatlich. Der genaue Finanzbedarf für ein Ernteanteil wird zusammen mit dem Solawi-Hof zu Beginn der Anbausaison 2017 ermittelt.
 
 Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne Depots in Oldenburg, an welche ein Teil der Lebensmittel geliefert wird.
+
+Für unsere Planung möchten wir Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll. Anfang 2017 wird es dann ein Gründungstreffen geben, mit Bieterrunde und Vertragsabschluss für alle künftigen Mitglieder.
 
 <br>
 <div class="row">
