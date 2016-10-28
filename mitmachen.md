@@ -20,7 +20,6 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 <li>1,5 bis 3 kg Gemüse je nach Saison</li>
 <li>Kräuter und Salate</li>
 <li>1 kg Kartoffeln</li>
-<li>250 g Fleisch (Wurst gibt es über längere Zeiträume, frisches Schweine- und Rindfleisch immer dann wenn wieder geschlachtet wird)
 <li>1 Suppenhuhn pro Jahr</li>
 <li>1 Brot</li>
 <li>4 Eier</li>
