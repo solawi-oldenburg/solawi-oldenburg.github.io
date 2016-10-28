@@ -14,7 +14,14 @@ Für das Erntejahr 2017 vergeben wir 60-70 Ernteanteile. Ein Ernteanteil ist etw
 Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung. Das sind:
 
 <div class="row" style="margin-top:30px; margin-bottom:20px">
-
+	<div class="col-sm-4">
+a
+<li>1 Brot</li>
+<li>4 Eier</li>
+<li>Milchprodukte aus ca. 8 Liter verarbeiteter Milch</li>
+		</ul>
+	</div>
+	
 	<div class="col-sm-4">
 Mögliches Milchprodukt-Paket 1:
 		<ul class="minus_left">
