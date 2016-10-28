@@ -47,7 +47,7 @@ Die Richtwerte für 1 Ernteanteil sind 150 € (vegetarisch / vegan) oder 180 �
 
 Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne Depots in Oldenburg, an welche ein Teil der Lebensmittel geliefert wird.
 
-Für unsere Planung möchten wir Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll. Anfang 2017 wird es dann ein Gründungstreffen geben, mit Bieterrunde und Vertragsabschluss für alle künftigen Mitglieder.
+Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenburg.de](mailto:mitglied@solawi-oldenburg.de) an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll. Anfang 2017 wird es dann ein Gründungstreffen geben, mit Bieterrunde und Vertragsabschluss für alle künftigen Mitglieder.
 
 <br>
 <div class="row">
