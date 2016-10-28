@@ -16,7 +16,7 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 <div class="row" style="margin-top:30px; margin-bottom:20px">
 	<div class="col-sm-4">
 		<ul class="minus_left">
-<li>1,5 bis 3 kg Gemüse je nach Saison (Rotkohl, Weißkohl, Sellerie, Steckrüben, Lagerkohlrabi, Zwiebeln, Chinakohl, Kartoffeln, Möhren, Kürbis, Zucchini, Salate, Tomaten und Gurke)</li>
+<li>1,5 bis 3 kg Gemüse je nach Saison</li>
 <li>Kräuter und Salate</li>
 <li>1 kg Kartoffeln</li>
 <li>1 Suppenhuhn pro Jahr</li>
