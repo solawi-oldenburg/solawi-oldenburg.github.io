@@ -62,18 +62,18 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 		<h3>Informiert bleiben</h3>
 		<p>
 			Wir berichten in unserem rund zweimonatlichen Newsletter von unserem Fortschritt:
-			<form action="http://pooleapp.com/stash/945ba4e6-54e0-40b5-ba8b-02e42a16e9e3/" method="post" style="width:220px">
-				<div class="form-group">
-					<input type="text" name="name" class="form-control" placeholder="Name">
-				</div>				
-				<div class="form-group">
-					<input type="hidden" name="redirect_to" value="/kontakt_danke/" />  
-					<input type="email" name="email" class="form-control" placeholder="Email-Adresse">
-				</div>
-				<div class="form-group">
-					<button type="submit" class="btn btn-success">Anmelden</button>
-				</div>
-			</form>
+			<form action="https://formspree.io/kontakt@solawi-oldenburg.de" method="POST">
+			<div class="form-group">
+				<input type="text" name="name" class="form-control" placeholder="Name">
+			</div>	
+			<div class="form-group">
+				<input type="hidden" name="_next" value="/kontakt_danke/"/>
+			    	<input type="email" name="_replyto" class="form-control" placeholder="Email-Adresse">
+		  	</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-success">Anmelden</button>
+		    	</div>
+			</form> 
 		</p>
 	</div>
 	<div class="col-sm-4">
