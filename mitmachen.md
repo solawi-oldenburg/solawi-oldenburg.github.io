@@ -74,6 +74,7 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 				<button type="submit" class="btn btn-success">Anmelden</button>
 		    	</div>
 			</form> 
+			Wenn Sie sich bei einer Veranstaltung für den Newsletter eingetragen haben und noch keine Post von uns bekommen haben, konnten wir Ihre Handschrift nicht lesen. Bitte tragen Sie sich hier erneut ein!
 		</p>
 	</div>
 	<div class="col-sm-4">
