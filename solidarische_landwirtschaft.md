@@ -23,8 +23,9 @@ Die LandwirtInnen und Mitglieder teilen sich auf diese Weise die Verantwortung f
 Weitere Infos:
 
 - [Netzwerk-Website der solidarischen Landwirtschaft](http://www.solidarische-landwirtschaft.org/)
+- [Film über solidarische Landwirtschaft auf dem Kattendorfer Hof](http://www.ndr.de/fernsehen/Der-Pakt-mit-dem-Bauern,naturnah1216.html)
+- [Film über solidarische Landwirtschaft auf dem Hof Pente](http://www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 - [Film über solidarische Landwirtschaft der GartenCoop Freiburg](http://www.cinerebelde.org/die-strategie-der-krummen-gurken-p-121.html)
-- [Film über solidarische Landwirtschaft im NDR](http://www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 
 
 ![]({{site.baseurl}}/public/images/alle_im_heu.jpg)
