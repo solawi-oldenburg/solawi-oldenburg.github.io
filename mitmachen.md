@@ -65,7 +65,9 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 			<form action="https://formspree.io/kontakt@solawi-oldenburg.de" method="POST">
 			<div class="form-group">
 				<input type="text" name="name" class="form-control" placeholder="Name">
-			</div>	
+                <input type="text" name="name" class="form-control" placeholder="Straße + Hausnr. (optional, hilft uns bei den Depots)">
+				<input type="text" name="name" class="form-control" placeholder="PLZ">
+			</div>	            
 			<div class="form-group">
 				<input type="hidden" name="_next" value="/kontakt_danke/"/>
 			    	<input type="email" name="_replyto" class="form-control" placeholder="Email-Adresse">
