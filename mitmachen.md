@@ -67,7 +67,7 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 				<input type="text" name="name" class="form-control" placeholder="Name">
             </div>
             <div class="form-group">
-                <input type="text" name="strett" class="form-control" placeholder="Straße (optional)">
+                <input type="text" name="street" class="form-control" placeholder="Straße (optional)">
              </div>
             <div class="form-group">
 				<input type="text" name="plz" class="form-control" placeholder="PLZ (optional)">
