@@ -61,16 +61,16 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 	<div class="col-sm-4">
 		<h3>Informiert bleiben</h3>
 		<p>
-			Wir berichten in unserem rund zweimonatlichen Newsletter von unserem Fortschritt:
+			Wir berichten in unserem rund zweimonatlichen Newsletter von unserem Fortschritt. Ihre Adresse hilft uns, passende Orte für die Depots zu finden.
 			<form action="https://formspree.io/kontakt@solawi-oldenburg.de" method="POST">
 			<div class="form-group">
 				<input type="text" name="name" class="form-control" placeholder="Name">
             </div>
             <div class="form-group">
-                <input type="text" name="name" class="form-control" placeholder="Straße (optional, für Depots)">
+                <input type="text" name="name" class="form-control" placeholder="Straße (optional)">
              </div>
             <div class="form-group">
-				<input type="text" name="name" class="form-control" placeholder="PLZ">
+				<input type="text" name="name" class="form-control" placeholder="PLZ (optional)">
 			</div>	            
 			<div class="form-group">
 				<input type="hidden" name="_next" value="/kontakt_danke/"/>
