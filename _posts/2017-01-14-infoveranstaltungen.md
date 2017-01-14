@@ -12,4 +12,4 @@ Es wird für alle, die nicht Mitglied der Stiftung sind, einen Euro Eintritt kos
 
 Außerdem möchten wir auf die Saatgut-Tauschbörse hinweisen:
 
-<img src="{{site.baseurl}}/public/images/Saatgut-Tausch%20OL%202017.jpg" style="max-height:500px">
+<a href="http://solawi-oldenburg.de/public/images/Saatgut-Tausch%20OL%202017.jpg"><img src="{{site.baseurl}}/public/images/Saatgut-Tausch%20OL%202017.jpg" style="max-height:500px"></a>
