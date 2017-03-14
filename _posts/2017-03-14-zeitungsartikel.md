@@ -7,4 +7,4 @@ title: ''
 
 Ein Porträt des Hofgemeinschaft Grummersort und der bald dort stattfindenden solidarischen Landwirtschaft:
 
-![zeitung.jpg]({{site.baseurl}}/public/images/zeitung.jpg)
+[![zeitung.jpg]({{site.baseurl}}/public/images/zeitung.jpg)](http://solawi-oldenburg.de/public/images/zeitung.jpg)
