@@ -62,7 +62,7 @@ Alle Mitglieder werden wöchentlich mit einem Schreiben per Mail und als Aushang
 Das Organistionsteam der Solawi-Oldenburg trifft sich derzeit vierzehntägig im Ökumenischen Zentrum Oldenburg. Für alle Solawi-Mitglieder besteht die Möglichkeit, sich hier oder ggf. in neuen Arbeitsgruppen einzubringen; das ist jedoch nicht verpflichtend. Wie oft Treffen mit allen Mitgliedern stattfinden werden, steht noch nicht fest.
 
 #### Wie lange bin ich Mitglied, wie kann ich kündigen?
-Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenburg entscheiden, da wir landwirtschaftlich für ein Anbaujahr planen. Es besteht trotzdem die Möglichkeit, die Solawi monatlich zu verlassen und den Ernteanteil abzugeben. Im besten Fall finden Sie eine/n NachfolgerIn, der/die Ihren Teil der Verantwortung für den Hof übernimmt.  
+Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenburg entscheiden, da wir landwirtschaftlich für ein Anbaujahr planen. Es besteht in Härtefällen die Möglichkeit, die Solawi monatlich zu verlassen und den Ernteanteil abzugeben. Im besten Fall finden Sie eine/n NachfolgerIn, der/die Ihren Teil der Verantwortung für den Hof übernimmt.  
 
 #### Woher kommt das verwendete Saatgut / die Jungpflanzen?
 Einen Teil unsere Jungpflanzen beziehen wir über die Bioland Gärtnerei Homann, die uns alle zwei Wochen mit neuen Pflanzen beliefert. In den Sommermonaten ziehen wir den größten Teil unserer Jungpflanzen selbst in unserem Gewächshaus vor.
