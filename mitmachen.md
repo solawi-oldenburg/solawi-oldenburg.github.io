@@ -54,6 +54,7 @@ Man kann zwischen drei Ernteanteil-Typen wählen:
 - "vegan": Brot, Gemüse (Richtwert 120 €)
 - "vegetarisch": Brot, Gemüse, Milchprodukte, Eier (Richtwert 160 €)
 - "mit Fleisch": Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
