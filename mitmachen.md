@@ -50,7 +50,7 @@ Mögliches Milchprodukt-Paket 2:
 	</div>
 </div>
 
-Die Richtwerte für 1 Ernteanteil sind 125 € (Gemüse und Brot / vegan), 150 € (vegetarisch) oder 180 € (Fleisch) monatlich. Der genaue Finanzbedarf für ein Ernteanteil wird zusammen mit dem Solawi-Hof zu Beginn der Anbausaison 2017 ermittelt.
+Die Richtwerte für 1 Ernteanteil sind 120 € (Gemüse und Brot / vegan), 160 € (vegetarisch) oder 180 € (Fleisch) monatlich. Der genaue Finanzbedarf für ein Ernteanteil wird zusammen mit dem Solawi-Hof zu Beginn der Anbausaison 2017 ermittelt.
 
 Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne Depots in Oldenburg, an welche ein Teil der Lebensmittel geliefert wird.
 
