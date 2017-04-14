@@ -51,9 +51,9 @@ Mögliches Milchprodukt-Paket 2:
 </div>
 
 Man kann zwischen drei Ernteanteil-Typen wählen:
-- "vegan": Brot, Gemüse (Richtwert 120 €)
-- "vegetarisch": Brot, Gemüse, Milchprodukte, Eier (Richtwert 160 €)
-- "mit Fleisch": Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
+- vegan: Brot, Gemüse (Richtwert 120 €)
+- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 160 €)
+- mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
 
 Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen. <!--In Koorperation mit dem Fahrrad-Club Oldenburg könnte dafür eine Reihe Lastenfahrräder den schönen Weg durchs Moor zum Hof fahren.--> Weiterhin hätten wir gerne Depots in Oldenburg, an welche ein Teil der Lebensmittel geliefert wird.
 
