@@ -28,6 +28,9 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 #### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
+#### Kann der Ernteanteil auch am Marktstand abgeholt werden?
+Eine Abholung am Marktstand ist aus organisatorischen Gründen nicht möglich. Die Ernteanteile können freitags direkt vom Hof oder aus einem Depot in Oldenburg abgeholt werden. 
+
 #### Wie und wann kann ich Mitglied werden?
 Für unsere Planung möchten wie Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, wenn Sie verbindlich an einem Ernteanteil interessiert sind. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
@@ -67,3 +70,23 @@ Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenbu
 #### Woher kommt das verwendete Saatgut / die Jungpflanzen?
 Einen Teil unsere Jungpflanzen beziehen wir über die Bioland Gärtnerei Homann, die uns alle zwei Wochen mit neuen Pflanzen beliefert. In den Sommermonaten ziehen wir den größten Teil unserer Jungpflanzen selbst in unserem Gewächshaus vor.
 Wir beziehen das meiste Saatgut von der Bingenheimer Saatgut AG aus biologisch-dynamischer Züchtung. Bei manchen Kulturen setzen wir Hybrid-Saatgut anderer Saatguthersteller ein, wenn wir mit den samenfesten Sorten nicht zufrieden sind. Bei vielen Kulturen werden zwei unterschiedliche Sorten angebaut, um das Ausfallrisiko etwas zu senken.
+
+#### Wie viel Platz muss für ein Depot eingeplant werden?
+Für rund 15 Ernteanteile würde sich z.B. ein Carport oder besser noch eine Garage eignen, die Längsseite mit Regalen bestückt, 40cm tief. Der Platz sollte frostfrei und im Sommer nicht zu heiß sein.
+Ein Stromanschluss für einen Kühlschrank wäre gut.
+
+#### Gibt es eine andere Möglichkeit, Kapital zur Verfügung zu stellen (eventuell auch als Gegenleistung für einen Ernteanteil)?
+Wir freuen uns über Unterstützung; bitte wenden Sie sich direkt an uns, damit wir einen geeigneten Weg finden (z.B. den Ernteanteil für mehrere Jahre im Voraus bezahlen) 
+
+#### Gibt es auch Lagerhaltung auf dem Hof für manche Gemüse?
+Auf dem Hof steht ausreichend Lagerraum zur Verfügung; fast alle Gemüsesorten können dort gelagert werden. Andere Sorten, die gut zu Hause gelagert werden können (z.B. Kürbis und Zwiebeln), werden zur Erntezeit komplett an die Mitglieder ausgegeben. 
+
+#### Gibt es auch unter den Abnehmenden Solidarität; also werden finanziell schwächere von anderen mitgetragen?
+Ja, in der Bieterrunde legt der Hof den Etat für das kommende Geschäftsjahr dar. Jedes Mitglied bietet (geheim), wie viel er/sie zahlt. Insgesamt muss der Etat erreicht werden; ist das nicht der Fall, wird erneut geboten.
+
+#### Wie lange bin ich Mitglied, wie kann ich kündigen?
+Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenburg entscheiden, da wir landwirtschaftlich für ein Anbaujahr planen. Es besteht in Einzelfällen trotzdem die Möglichkeit, die Solawi monatlich zu verlassen und den Ernteanteil abzugeben. Im besten Fall finden Sie eine/n NachfolgerIn, der/die Ihren Teil der Verantwortung für den Hof übernimmt.
+
+#### Ist die Solawi Oldenburg ein Verein?
+Nein, die Solawi Oldenburg hat keine eigene Rechtsform. Die Solawi Oldenburg ist rechtlich in der Hofhandel Grummersort GbR auf dem Hof organisatorisch untergebracht.
+Jedes einzelne Mitglied schließt einen Vertrag für das kommende Wirtschaftsjahr direkt mit der Hofgemeinschaft Grummersort.
