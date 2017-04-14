@@ -96,7 +96,7 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 	</div>
 	<div class="col-sm-4">
 		<h3>Erzeuger</h3>
-		<p>
+		
 			
 			
 			Oder eine Streuobstwiese? Die Solawi Mitglieder können diese pflegen und von der Apfelernte lassen wir Saft für alle machen.
