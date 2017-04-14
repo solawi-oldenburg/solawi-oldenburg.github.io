@@ -9,7 +9,7 @@ published: true
 
 ## Mitmachen
 
-Für das Erntejahr 2017 vergeben wir 60-70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
+Für das Erntejahr 2017 vergeben wir 70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
 
 Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung. Das sind:
 
@@ -56,7 +56,7 @@ Man kann zwischen drei Ernteanteil-Typen wählen:
 - mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
 
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
-Es gibt jeweils eine Verteilstelle (Depot) in Eversten, Donnerschwee und Osterburg.
+Es gibt jeweils eine Verteilstelle (Depot) in Eversten, Donnerschwee und Osterburg, welche immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert werden.
 
 Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenburg.de](mailto:mitglied@solawi-oldenburg.de) an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
