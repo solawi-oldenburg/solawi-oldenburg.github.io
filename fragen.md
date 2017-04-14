@@ -28,7 +28,7 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 #### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
-Wir kommisionieren nicht vor - dafür ist die Hofkiste da. Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt
+Wir kommisionieren nicht vor - dafür ist die Hofkiste da. Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
 
 #### Kann der Ernteanteil auch am Marktstand abgeholt werden?
 Eine Abholung am Marktstand ist aus organisatorischen Gründen nicht möglich. Die Ernteanteile können freitags direkt vom Hof oder aus einem Depot in Oldenburg abgeholt werden. 
