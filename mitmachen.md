@@ -52,10 +52,11 @@ Mögliches Milchprodukt-Paket 2:
 
 Man kann zwischen drei Ernteanteil-Typen wählen:
 - vegan: Brot, Gemüse (Richtwert 120 €)
-- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 160 €)
+- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 164 €)
 - mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
 
-Am Abholtag kann sich jedes Mitglied seinen Teil vom Hof abholen.
+Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
+Es gibt jeweils eine Verteilstelle (Depot) in Eversten, Donnerschwee und Osterburg.
 
 Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenburg.de](mailto:mitglied@solawi-oldenburg.de) an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
@@ -96,7 +97,7 @@ Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenbu
 	<div class="col-sm-4">
 		<h3>Erzeuger</h3>
 		<p>
-			Kennst du einen Imker? Wir übernehmen die Kosten für die Bienenvölker und die Arbeit und der Honig wird unter den Mitgliedern verteilt!
+			
 			<br><br>
 			Oder eine Streuobstwiese? Die Solawi Mitglieder können diese pflegen und von der Apfelernte lassen wir Saft für alle machen.
 		</p>
