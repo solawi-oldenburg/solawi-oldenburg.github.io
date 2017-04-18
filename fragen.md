@@ -28,7 +28,7 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 #### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
 
-Wir kommissionieren nicht vor - dafür ist die Hofkiste da. Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
+Wir kommissionieren nicht vor! Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
 
 #### Kann der Ernteanteil auch am Marktstand abgeholt werden?
 Eine Abholung am Marktstand ist aus organisatorischen Gründen nicht möglich. Die Ernteanteile können freitags direkt vom Hof oder aus einem Depot in Oldenburg abgeholt werden. 
@@ -44,7 +44,7 @@ Es besteht die Möglichkeit, Ernteanteile zu verschenken.
 
 #### Wie teuer ist ein Ernteanteil?
 Im März  2017 stellt der Hof den Etat für das nächste Jahr vor und setzt den Preis für ein Ernteanteil fest. 
-Der monatliche Beitrag für eine vollen Ernteanteil liegt bei ca. 180 €, für den vegetarischen Anteil bei ca. 150 € und für den veganen Anteil bei ca. 125 € im Monat.
+Der monatliche Beitrag für eine vollen Ernteanteil liegt bei 180 €, für den vegetarischen Anteil bei ca. 164 € und für den veganen Anteil bei ca. 120 € im Monat.
 Im Februar 2018 wird auf das Jahr 2017 zurück geschaut  und der neue Etat für das Jahr 2018 erstellt.
 
 #### Wann muss der Beitrag gezahlt werden?
