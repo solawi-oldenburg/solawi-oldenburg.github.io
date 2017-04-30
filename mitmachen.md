@@ -28,24 +28,14 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 	</div>
 	
 	<div class="col-sm-4">
-Mögliches Milchprodukt-Paket 1:
+Mögliche Milchprodukte
 		<ul class="minus_left">
-<li>1 l Milch</li>
-<li>500 ml Joghurt</li>
-<li>400 g Käse (Hofkäse, Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)</li>
-<li>250 g Frischkäse</li>
-<li>350 g Quark</li>
-		</ul>
-	</div>
+<li>2 l Milch</li>
+<li>1000 ml Joghurt</li>
+<li>250 g Bergkäse </li>
+<li>285 g Hofkäse</li>
+
 	
-	<div class="col-sm-4">
-Mögliches Milchprodukt-Paket 2:                           
-		<ul class="minus_left">
-<li>3 l Milch</li>
-<li>1 l Joghurt</li>
-<li>200 g Käse (Hofkäse, Bergkäse, Gouda, Münster, Romadour, Weichkäse in unterschiedlicher Zusammensetzung)</li>
-<li>250 g Frischkäse</li>
-<li>250 g Quark</li>		
 		</ul>
 	</div>
 </div>
