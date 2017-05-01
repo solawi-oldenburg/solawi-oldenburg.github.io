@@ -9,20 +9,20 @@ Zutaten für 3 bis 4 Portionen
 
 Für die Suppe:
 
-1 kg Möhren
-2 kleine Zwiebeln
-2 Knoblauchzehen
-Muskat, Salz, Pfeffer
-2 EL Olivenöl, Ghee oder Butter
-1 Becher Sahne (200g)
-2 EL Zitronensaft
-Wer mal als Topping: etwas Rucola und ein wenig Kürbiskernöl
+- 1 kg Möhren
+- 2 kleine Zwiebeln
+- 2 Knoblauchzehen
+- Muskat, Salz, Pfeffer
+- 2 EL Olivenöl, Ghee oder Butter
+- 1 Becher Sahne (200g)
+- 2 EL Zitronensaft
+- Wer mag als Topping: etwas Rucola und ein wenig Kürbiskernöl
 
 Für die Croutons:
 
-6 dicke Scheiben Vollkornbrot
-100 g Butter
-1 TL Salz
+- 6 dicke Scheiben Vollkornbrot
+- 100 g Butter
+- 1 TL Salz
 
 Zubereitung: 
 
