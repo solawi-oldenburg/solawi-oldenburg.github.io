@@ -1,4 +1,5 @@
 ---
+published: true
 layout: recipe
 title: Hirsebratlinge
 ---
@@ -18,7 +19,8 @@ Zutaten für etwa 10 Bratlinge (je nach Größe):
 - Etwa 4 EL mittelgroben Weizenschrot
 - Öl zum Braten
 
-Zubereitung:<br>
+Zubereitung:
+
 Die Zwiebel abziehen und sehr fein hacken. Etwas Olivenöl in einem Topf erhitzen. Die Zwiebel darin glasig dünsten. Hirse 
 hinzugeben, gut umrühren und mit Wasser ablöschen. Etwas Kräutersalz und Pfeffer hinzugeben, noch einmal umrühren und 
 zum Kochen bringen. Die Hitze reduzieren und etwa 20 Minuten köcheln lassen (es kann hier bzgl. der Dauer Variationen geben, 
