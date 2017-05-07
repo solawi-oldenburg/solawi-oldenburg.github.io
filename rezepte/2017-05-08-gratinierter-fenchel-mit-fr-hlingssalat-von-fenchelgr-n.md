@@ -11,26 +11,26 @@ Für den gratinierten Fenchel:
 
 - 5-6 Fenchelknollen mit möglichst viel Grün/Blättern (für die Béchamelsauce und den Salat s.u., gibt’s meist nur zu Beginn der Fenchelernte und ist wie die Knolle sehr mineralstoffreich)
 - 1 Zwiebel
--100 g Butter
--50 g Mehl
--500 ml Milch
--Salz, Pfeffer, Muskat
--1 TL Honig
--3 EL Zitronensaft
--Etwas Butter zum Einfetten der Gratinform
--100 g Hofgouda
+- 100 g Butter
+- 50 g Mehl
+- 500 ml Milch
+- Salz, Pfeffer, Muskat
+- 1 TL Honig
+- 3 EL Zitronensaft
+- Etwas Butter zum Einfetten der Gratinform
+- 100 g Hofgouda
 
 Für den Frühlingssalat von Fenchelgrün:
 
 Das Fenchelgrün/Fenchelblätter samt Blattstängel der Knollen für das Gratin (s.o.)
--2 Möhren
--1 Apfel
--5 EL Olivenöl
--3 EL Zitronensaft
--1 TL Senf
--1 EL Akazienhonig
--Salz, Pfeffer
--1 Handvoll Haselnüsse
+- 2 Möhren
+- 1 Apfel
+- 5 EL Olivenöl
+- 3 EL Zitronensaft
+- 1 TL Senf
+- 1 EL Akazienhonig
+- Salz, Pfeffer
+- 1 Handvoll Haselnüsse
 
 Zubereitung:
 
