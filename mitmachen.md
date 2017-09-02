@@ -48,51 +48,7 @@ Man kann zwischen drei Ernteanteil-Typen wählen:
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
 Es gibt jeweils eine Verteilstelle (Depot) in Eversten, Donnerschwee und Osterburg, welche immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert werden.
 
-Für unsere Planung möchten wir Sie bitten, sich unter [mitglied@solawi-oldenburg.de](mailto:mitglied@solawi-oldenburg.de) an uns zu wenden, **wenn Sie verbindlich an einem Ernteanteil interessiert sind**. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
-
-<br>
-<div class="row">
-	<div class="col-sm-4">
-		<h3>Informiert bleiben</h3>
-		<p>
-			Wir berichten in unserem rund zweimonatlichen Newsletter von unserem Fortschritt. Ihre Adresse hilft uns, passende Orte für die Depots zu finden.
-			<form action="https://formspree.io/kontakt@solawi-oldenburg.de" method="POST">
-			<div class="form-group">
-				<input type="text" name="name" class="form-control" placeholder="Name">
-            </div>
-            <div class="form-group">
-                <input type="text" name="street" class="form-control" placeholder="Straße (optional)">
-             </div>
-            <div class="form-group">
-				<input type="text" name="plz" class="form-control" placeholder="PLZ (optional)">
-			</div>	            
-			<div class="form-group">
-				<input type="hidden" name="_next" value="/kontakt_danke/"/>
-			    	<input type="email" name="_replyto" class="form-control" placeholder="Email-Adresse">
-		  	</div>
-			<div class="form-group">
-				<button type="submit" class="btn btn-success">Anmelden</button>
-		    	</div>
-			</form> 
-			Wenn Sie sich bei einer Veranstaltung für den Newsletter eingetragen haben und noch keine Post von uns bekommen haben, konnten wir Ihre Handschrift nicht lesen. Bitte tragen Sie sich hier erneut ein!
-		</p>
-	</div>
-	<div class="col-sm-4">
-		<h3>Mitgestalten</h3>
-		<p>
-			Zur Zeit treffen wir uns zweiwöchentlich für Website, Flyer, Veranstaltungen, Depot-Suche und Rahmenbedingungen mit dem Hof.
-			Du bist eingeladen, dich einzubringen!
-		</p>
-	</div>
-	<div class="col-sm-4">
-		<h3>Erzeuger</h3>
-		
-			
-			
-			Oder eine Streuobstwiese? Die Solawi Mitglieder können diese pflegen und von der Apfelernte lassen wir Saft für alle machen.
-		</p>
-	</div>
-</div>
+Wenden Sie sich unter [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) an uns, wenn Sie an einem Ernteanteil interessiert sind. Geben Sie dabei Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
 <br>
 ![P1130613.JPG]({{site.baseurl}}/public/images/P1130613.JPG)
