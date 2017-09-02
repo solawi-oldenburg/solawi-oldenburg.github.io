@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kontakt
+published: true
 ---
-## Danke für deine Nachricht!
-Wir werden uns bald melden :)
+## Danke für die Nachricht!
+Wir werden uns bald melden.
