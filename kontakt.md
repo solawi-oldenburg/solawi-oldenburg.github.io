@@ -7,7 +7,7 @@ published: true
 
 
 ## Kontakt
-Schreibe an [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) oder nutze dieses Formular:
+Schreiben Sie an [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) oder nutzen Sie dieses Formular:
 
 <div class="row">
 	<div class="col-sm-6">
@@ -25,4 +25,3 @@ Schreibe an [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) od
 		</form> 
 	</div>    
 </div>
-
