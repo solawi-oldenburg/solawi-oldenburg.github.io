@@ -15,7 +15,7 @@ Kleine Kirchenstr. 12<br>
 26122 Oldenburg
 
 ### Digitale Kontaktaufnahme
-E-Mail: solawi-ol@oezo.de<br>
+E-Mail: kontakt@solawi-oldenburg.de<br>
 Telefon: 01578 9494744
 
 
