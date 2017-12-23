@@ -8,7 +8,7 @@ Jeden Dienstag startet  um 15 Uhr ein vollgepackter Transporter mit knackigem Ge
 Es gibt in Oldenburg derzeit drei Abholstellen (Depots):
 - in Osternburg im Bioladen „Brot und So“  mit 12 Ernteanteilen
 - in Eversten an der Hundsmühler Straße  mit 17 Ernteanteilen
-- in Donnerschwee  in der Straße „alte Weide“ mit derzeit 24 Anteilen
+- in Donnerschwee  in der Straße „Alte Weide“ mit derzeit 24 Anteilen
 
 Auf dem Hof werden jeden Freitag weitere 16 Ernteanteile abgeholt.
 
