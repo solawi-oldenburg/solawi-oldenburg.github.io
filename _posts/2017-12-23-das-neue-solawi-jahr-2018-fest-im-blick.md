@@ -19,3 +19,5 @@ Die Solidarische Landwirtschaft hat sich im ersten Jahr zu einer festen Abnahme 
 Die Planungen für das neue Anbaujahr 2018 haben begonnen und das erste Pflanzgut ist bereits bestellt. 
 
 Wenn Sie Interesse an einem Ernteanteil ab April 2018 haben oder mit ihren Nachbarn ein neues Depot gründen wollen, schreiben sie uns eine Nachricht an:  [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de)
+
+![ernteanteil2.5.2017.JPG]({{site.baseurl}}/public/images/ernteanteil2.5.2017.JPG)
