@@ -10,7 +10,7 @@ published: true
 Es wird einen vegetarischen Ernteanteil mit Gemüse, Brot, Eiern und Milchprodukten geben. Der vegetarische Anteil kostet weniger als der Anteil mit Fleisch, enhält aber einen Beitrag zur Tierhaltung, da die Tiere auf dem Demeter-Hof eine zentrale Rolle spielen und wir den Mist der Tiere für die Düngung des Gemüses benötigen. Es wird auch einen veganen Ernteanteil geben, der aus Gemüse und Brot besteht. Auch dieser Ernteanteil enthält einen Finanzbeitrag zur Tierhaltung. 
 
 #### Wie viele Anteile werden verteilt?
-Es werden 70 Ernteanteile für das Anbaujahr 2017 verteilt.
+Es werden 85 Ernteanteile für das Anbaujahr 2018 verteilt.
 
 #### Kann ich zum wöchentlichen Anteil Lebensmittel dazu bestellen, die nicht auf dem Hof erzeugt werden?
 Wie gehabt kann an unseren Marktständen und über unsere Hofkiste Obst, Gemüse und Milchprodukte von anderen biologisch wirtschaftenden Betrieben erworben werden.
