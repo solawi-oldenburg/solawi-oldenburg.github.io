@@ -16,17 +16,21 @@ Es werden 85 Ernteanteile für das Anbaujahr 2018 verteilt.
 Wie gehabt kann an unseren Marktständen und über unsere Hofkiste Obst, Gemüse und Milchprodukte von anderen biologisch wirtschaftenden Betrieben erworben werden.
 
 #### Warum wird der Hof nicht zu 100% solidarisch bewirtschaftet?
-Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewachsen, der eine große Anzahl Menschen in der Umgebung mit Lebensmitteln aus biologisch-dynamischen Anbau versorgt. Der Hof bietet mitlerweile 20 MitarbeiterInnen einen Arbeitsplatz und trägt Verantwortung für über 60 ha landwirtschaftliche Flächen. Die über die vielen Jahre aufgebaute Direkvermarktungsstruktur wird erhalten bleiben, um der langjährigen Kundschaft des Hofes den gewohnten Weg zu den Hofprodukten zu erhalten.
+Die Hofgemeinschaft Grummersort ist in 30 Jahren zu einem vielfältigen Hof gewachsen, der eine große Anzahl Menschen in der Umgebung mit Lebensmitteln aus biologisch-dynamischen Anbau versorgt. Der Hof bietet mitlerweile über 30 MitarbeiterInnen einen Arbeitsplatz und trägt Verantwortung für über 60 ha landwirtschaftliche Flächen. Die über die vielen Jahre aufgebaute Direkvermarktungsstruktur wird erhalten bleiben, um der langjährigen Kundschaft des Hofes den gewohnten Weg zu den Hofprodukten zu erhalten.
 
 #### Soll der Hof mittel- oder langfristig komplett solidarisch bewirtschaftet werden?
-Die Solidarische Landwirt soll langfristig auf dem Hof weiter wachsen und mehr Verantwortung tragen. Das Jahr 2017 wird ein Testlauf für die Solawi-Gruppe und die Hofgemeinschaft. Im Frühjahr 2018 wird dann beurteilt wie das Jahr gelaufen ist und ob wir uns zutrauen weitere Ernteanteile zu vergeben. 
+Die Solidarische Landwirt soll langfristig auf dem Hof weiter wachsen und mehr Verantwortung tragen. Das Jahr 2017 war ein Testlauf für die Solawi-Gruppe und die Hofgemeinschaft.
 
 #### Wie kann ich sicher sein, dass ich als Solawi-Mitglied nicht die Lebensmittel erhalte, die auf dem Markt nicht verkauft werden können?
 Der Ernteanteil bedeutet einen festen Anteil an der erzeugten Menge des Hoffes. Hinter jedem Ernteanteil steht eine bestimmte Anbaufläche des Hofes. Zum Beispiel sind konkrete Tomatenreihen für die Solawi bestimmt. Das bedeutet, dass sich die Tomatenmenge pro Woche von einer Tomate pro Woche langsam steigert auf bis zu 1,5 kg pro Woche Ende Juli bis Mitte August, danach nimmt die Erntemenge wieder ab. 
 Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die Solawi-Mitglieder bleiben sie in der Kiste, so dass jede/r alle Erträge des Ernteanteils erhält.
 
 #### Wo kann ich die Lebensmittel abholen?
-Die Lebensmittel werden am Freitagnachmittag zur Abholung auf dem Hof bereit stehen. Des Weiteren sind drei bis vier Abholstellen in Oldenburg geplant, die von den Mitgliedern selbst organisiert werden.
+Die Lebensmittel stehen am Freitagnachmittag zur Abholung auf dem Hof bereit. Des Weiteren gibt es vier Abholstellen in Oldenburg, die von den Mitgliedern selbst organisiert werden.
+
+Depot: Eversten (Hundsmühlerstr.)
+Depot: Osternburg (im Bioladen "Brot und So")
+Depot: Donnerschwee
 
 Wir kommissionieren nicht vor! Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
 
@@ -34,13 +38,13 @@ Wir kommissionieren nicht vor! Die Aufteilung der Lieferung findet gemeinschaftl
 Eine Abholung am Marktstand ist aus organisatorischen Gründen nicht möglich. Die Ernteanteile können freitags direkt vom Hof oder aus einem Depot in Oldenburg abgeholt werden. 
 
 #### Wie und wann kann ich Mitglied werden?
-Für unsere Planung möchten wie Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, wenn Sie verbindlich an einem Ernteanteil interessiert sind. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
+Für unsere Planung möchten wie Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, wenn Sie verbindlich an einem Ernteanteil für 2018 interessiert sind. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
-Anfang 2017 wird es dann ein Gründungstreffen geben, mit Bieterrunde und Vertragsabschluss für alle künftigen Mitglieder.
+Im Maerz 2018 gibt es dann eine Frühjahrsversammlung auf dem Hof in Grummersort, wo die Hofgemeinschaft den Finnanzplan für das kommende Wirtschaftsjahr vorstellt. 
 
 #### Was passiert, wenn ich im Urlaub bin?
 Da der finanzielle Beitrag der Mitglieder zur Finanzierung der Landwirtschaft benötigt wird, muss er das ganze Kalenderjahr ohne Unterbrechung gezahlt werden. Die Tiere im Stall brauchen morgens und abends ihr Futter und wollen jeden Tag im Jahr gemolken werden. Gerade in den Ferienmonaten Juli und August gibt es die meiste Milch zu verarbeiten und die größte Menge Gemüse auf den Feldern zu ernten. 
-Es besteht die Möglichkeit, Ernteanteile zu verschenken.
+Die Mitglieder verschenken ihren Anteil in dieser Zeit an Freunde oder Verwandte.
 
 #### Wie teuer ist ein Ernteanteil?
 Im März  2017 stellt der Hof den Etat für das nächste Jahr vor und setzt den Preis für ein Ernteanteil fest. 
@@ -48,7 +52,7 @@ Der monatliche Beitrag für eine vollen Ernteanteil liegt bei 180 €, für den 
 Im Februar 2018 wird auf das Jahr 2017 zurück geschaut  und der neue Etat für das Jahr 2018 erstellt.
 
 #### Wann muss der Beitrag gezahlt werden?
-Der Beitrag zur Deckung der Kosten des Hofes wird monatlich bezahlt.
+Der Beitrag zur Deckung der Kosten des Hofes wird monatlich per Lastschrift bezahlt. Einige Mitglieder haben im Frühjahr direkt ihren Jahresbeitrag überwiesen, um dem Hof bei der Finanzierung von Saatgut zu unterstützen.
 
 #### Welches Risiko trage ich als Mitglied?
 Als Mitglied trage ich das Risiko, dass ich nicht eine ganz bestimmte Menge Gemüse zum vereinbarten Zeitpunkt bekomme. Fällt die Ernte einer Kultur niedriger aus als erwartet, kann weniger verteilt werden, fällt sie höher aus, kann mehr verteilt werden.
@@ -64,7 +68,7 @@ Es können derzeit keine Anteile an der Hofgemeinschaft Grummersort in der Form 
 Alle Mitglieder werden wöchentlich mit einem Schreiben per Mail und als Aushang in den Depots über die aktuellen Ereignisse auf dem Hof informiert. In diesem Schreiben wird erläutert, warum es von diesen oder jenen Produkte so viel, so wenig oder nichts gibt.
 
 #### Gibt es regelmäßige Treffen, an denen ich teilnehmen kann / muss?
-Das Organistionsteam der Solawi-Oldenburg trifft sich derzeit vierzehntägig im Ökumenischen Zentrum Oldenburg. Für alle Solawi-Mitglieder besteht die Möglichkeit, sich hier oder ggf. in neuen Arbeitsgruppen einzubringen; das ist jedoch nicht verpflichtend. Wie oft Treffen mit allen Mitgliedern stattfinden werden, steht noch nicht fest.
+Es gibt innerhalb der Depots Organisationstreffen an denen eine Teilnahme erwünscht ist. 
 
 #### Wie lange bin ich Mitglied, wie kann ich kündigen?
 Wir freuen uns, wenn Sie sich für ein Jahr Mitgliedschaft in der Solawi Oldenburg entscheiden, da wir landwirtschaftlich für ein Anbaujahr planen. Es besteht in Härtefällen die Möglichkeit, die Solawi monatlich zu verlassen und den Ernteanteil abzugeben. Im besten Fall finden Sie eine/n NachfolgerIn, der/die Ihren Teil der Verantwortung für den Hof übernimmt.  
@@ -75,13 +79,14 @@ Wir beziehen das meiste Saatgut von der Bingenheimer Saatgut AG aus biologisch-d
 
 #### Wie viel Platz muss für ein Depot eingeplant werden?
 Für rund 15 Ernteanteile würde sich z.B. ein Carport oder besser noch eine Garage eignen, die Längsseite mit Regalen bestückt, 40cm tief. Der Platz sollte frostfrei und im Sommer nicht zu heiß sein.
-Ein Stromanschluss für einen Kühlschrank wäre gut.
+Ein Stromanschluss für einen Kühlschrank muss vorhanden sein.
+Derzeit sind wir auf der Suche nach einem passenden Depot im Ziegelhofviertel sowie im Norden der Stadt.
 
 #### Gibt es eine andere Möglichkeit, Kapital zur Verfügung zu stellen (eventuell auch als Gegenleistung für einen Ernteanteil)?
 Wir freuen uns über Unterstützung; bitte wenden Sie sich direkt an uns, damit wir einen geeigneten Weg finden (z.B. den Ernteanteil für mehrere Jahre im Voraus bezahlen) 
 
 #### Gibt es auch Lagerhaltung auf dem Hof für manche Gemüse?
-Auf dem Hof steht ausreichend Lagerraum zur Verfügung; fast alle Gemüsesorten können dort gelagert werden. Andere Sorten, die gut zu Hause gelagert werden können (z.B. Kürbis und Zwiebeln), werden zur Erntezeit komplett an die Mitglieder ausgegeben. 
+Auf dem Hof steht ausreichend Lagerraum zur Verfügung; fast alle Gemüsesorten können dort gelagert werden.
 
 #### Gibt es auch unter den Abnehmenden Solidarität; also werden finanziell schwächere von anderen mitgetragen?
 Ja, in der Bieterrunde legt der Hof den Etat für das kommende Geschäftsjahr dar. Jedes Mitglied bietet (geheim), wie viel er/sie zahlt. Insgesamt muss der Etat erreicht werden; ist das nicht der Fall, wird erneut geboten.
