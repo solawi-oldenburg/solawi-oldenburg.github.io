@@ -9,7 +9,7 @@ published: true
 
 ## Mitmachen
 
-Für das Erntejahr 2017 vergeben wir 70 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
+Für das Erntejahr 2018 vergeben wir 85 Ernteanteile. Ein Ernteanteil ist etwa die Menge an Lebensmitteln, welche für die Versorgung einer Person über das Jahr ausreichend ist.
 
 Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung für einen Teil des Hofes, indem du durch deinen monatlichen Finanzbeitrag die Arbeit der Landwirte ermöglichst. Die auf der Fläche von einem 1/4 ha Land entstandenen Produkte stehen dir jede Woche zur Verfügung. Das sind:
 
@@ -19,7 +19,7 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 <li>1,5 bis 3 kg Gemüse je nach Saison</li>
 <li>Kräuter und Salate</li>
 <li>1 kg Kartoffeln</li>
-<li>1 Suppenhuhn pro Jahr</li>
+
 <li>250 g Fleisch (Wurst gibt es über längere Zeiträume, frisches Schweine- und Rindfleisch immer dann wenn wieder geschlachtet wird)</li>
 <li>1 Brot</li>
 <li>4 Eier</li>
