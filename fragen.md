@@ -28,9 +28,9 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 #### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel stehen am Freitagnachmittag zur Abholung auf dem Hof bereit. Des Weiteren gibt es vier Abholstellen in Oldenburg, die von den Mitgliedern selbst organisiert werden.
 
-Depot: Eversten (Hundsmühlerstr.)
-Depot: Osternburg (im Bioladen "Brot und So")
-Depot: Donnerschwee
+#Depot: Eversten (Hundsmühlerstr.)
+#Depot: Osternburg (im Bioladen "Brot und So")
+#Depot: Donnerschwee
 
 Wir kommissionieren nicht vor! Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
 
@@ -40,14 +40,13 @@ Eine Abholung am Marktstand ist aus organisatorischen Gründen nicht möglich. D
 #### Wie und wann kann ich Mitglied werden?
 Für unsere Planung möchten wie Sie bitten, sich unter mitglied@solawi-oldenburg.de an uns zu wenden, wenn Sie verbindlich an einem Ernteanteil für 2018 interessiert sind. Bitte geben Sie auch gerne Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
-Im Maerz 2018 gibt es dann eine Frühjahrsversammlung auf dem Hof in Grummersort, wo die Hofgemeinschaft den Finnanzplan für das kommende Wirtschaftsjahr vorstellt. 
+Im Maerz 2018 gibt es dann eine Frühjahrsversammlung auf dem Hof in Grummersort, wo die Hofgemeinschaft den Finanzplan für das kommende Wirtschaftsjahr vorstellt. 
 
 #### Was passiert, wenn ich im Urlaub bin?
 Da der finanzielle Beitrag der Mitglieder zur Finanzierung der Landwirtschaft benötigt wird, muss er das ganze Kalenderjahr ohne Unterbrechung gezahlt werden. Die Tiere im Stall brauchen morgens und abends ihr Futter und wollen jeden Tag im Jahr gemolken werden. Gerade in den Ferienmonaten Juli und August gibt es die meiste Milch zu verarbeiten und die größte Menge Gemüse auf den Feldern zu ernten. 
 Die Mitglieder verschenken ihren Anteil in dieser Zeit an Freunde oder Verwandte.
 
-#### Wie teuer ist ein Ernteanteil?
-Im März  2017 stellt der Hof den Etat für das nächste Jahr vor und setzt den Preis für ein Ernteanteil fest. 
+#### Wie teuer ist ein Ernteanteil? 
 Der monatliche Beitrag für eine vollen Ernteanteil liegt bei 180 €, für den vegetarischen Anteil bei ca. 164 € und für den veganen Anteil bei ca. 120 € im Monat.
 Im Februar 2018 wird auf das Jahr 2017 zurück geschaut  und der neue Etat für das Jahr 2018 erstellt.
 
