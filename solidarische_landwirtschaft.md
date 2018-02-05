@@ -26,6 +26,7 @@ Weitere Infos:
 - [Film über solidarische Landwirtschaft auf dem Kattendorfer Hof](http://www.ndr.de/fernsehen/Der-Pakt-mit-dem-Bauern,naturnah1216.html)
 - [Film über solidarische Landwirtschaft auf dem Hof Pente](http://www.ndr.de/fernsehen/sendungen/schoenes_landleben/Hof-Pente,sendung447932.html)
 - [Film über solidarische Landwirtschaft der GartenCoop Freiburg](http://www.cinerebelde.org/die-strategie-der-krummen-gurken-p-121.html)
+- [Film über solidarische Landwirtschaft](https://www.youtube.com/watch?v=KCiDFubVtYo) (Ab Minute 10, davor wird die vorherrschende Agrarindustrie porträtiert)
 
 
 ![]({{site.baseurl}}/public/images/alle_im_heu.jpg)
