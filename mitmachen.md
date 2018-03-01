@@ -49,10 +49,10 @@ Man kann zwischen drei Ernteanteil-Typen wählen:
 
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
 
-Es gibt derzeit drei Verteilstellen (Depots) in Oldenburg:
-Eversten an der Hundsmühlerstr. (geöffnet: Dienstag 17 Uhr bis Donnerstag 24 Uhr)
-Neu-Donnerschwee (geöffnet: Dienstag ab 17 Uhr)
-Osterburg im Bioladen Brot und So (geöffnet: Dienstag zwischen 15.30 und 17.45 Uhr)
+Alternativ dazu gibt es derzeit drei Verteilstellen (Depots) in Oldenburg:  
+- Eversten an der Hundsmühler Straße (geöffnet: Dienstag 17 Uhr bis Donnerstag 24 Uhr)
+- Neu-Donnerschwee (geöffnet: Dienstag ab 17 Uhr)
+- Osterburg im Bioladen [Brot und So](http://kostbar-oldenburg.de/partner/brot-so/) (geöffnet: Dienstag zwischen 15.30 und 17.45 Uhr)
 
 Die Verteilstellen werden immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert.
 
