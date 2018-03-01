@@ -43,16 +43,17 @@ Mögliche Milchprodukte: zum Beispiel Ende Februar 2018
 </div>
 
 Man kann zwischen drei Ernteanteil-Typen wählen:
-- vegan: Brot, Gemüse (Richtwert 120 €)
-- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 164 €)
-- mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
+- vegan: Brot, Gemüse (Richtwert 120 €/ halber Anteil 60 €)
+- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 164 €/ halber Anteil 82 €)
+- mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €/halber Anteil 90 €)
 
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
 
 Es gibt derzeit drei Verteilstellen (Depots) in Oldenburg:
-Eversten 
-Donnerschwee 
-Osterburg
+Eversten an der Hundsmühlerstr. (geöffnet: Dienstag 17 Uhr bis Donnerstag 24 Uhr)
+Neu-Donnerschwee (geöffnet: Dienstag ab 17 Uhr)
+Osterburg im Bioladen Brot und So (geöffnet: Dienstag zwischen 15.30 und 17.45 Uhr)
+
 Die Verteilstellen werden immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert.
 
 Wenden Sie sich unter [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) an uns, wenn Sie an einem Ernteanteil interessiert sind. Geben Sie dabei Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
