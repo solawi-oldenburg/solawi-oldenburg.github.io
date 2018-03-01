@@ -32,8 +32,10 @@ Mögliche Milchprodukte: zum Beispiel Anfang Mai
 		<ul class="minus_left">
 <li>2 l Milch</li>
 <li>1000 ml Joghurt</li>
-<li>250 g Bergkäse </li>
-<li>285 g Hofkäse</li>
+<li>250 g Quark</li>
+<li>250 g Kräuterquark</li>
+<li>einen Camenbert</li>
+<li>100 g Hofkäse</li>
 
 	
 		</ul>
