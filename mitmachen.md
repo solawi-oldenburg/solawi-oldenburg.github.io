@@ -28,7 +28,7 @@ Mit einem Ernteanteil trägst du als Mitglied der Solawi Oldenburg Verantwortung
 	</div>
 	
 	<div class="col-sm-4">
-Mögliche Milchprodukte: zum Beispiel Anfang Mai
+Mögliche Milchprodukte: zum Beispiel Ende Februar 2018
 		<ul class="minus_left">
 <li>2 l Milch</li>
 <li>1000 ml Joghurt</li>
