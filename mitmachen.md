@@ -48,7 +48,12 @@ Man kann zwischen drei Ernteanteil-Typen wählen:
 - mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €)
 
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
-Es gibt jeweils eine Verteilstelle (Depot) in Eversten, Donnerschwee und Osterburg, welche immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert werden.
+
+Es gibt derzeit drei Verteilstellen (Depots) in Oldenburg:
+Eversten 
+Donnerschwee 
+Osterburg
+Die Verteilstellen werden immer am Dienstagnachmittag mit den jeweiligen Ernteanteilen vom Hof beliefert.
 
 Wenden Sie sich unter [kontakt@solawi-oldenburg.de](mailto:kontakt@solawi-oldenburg.de) an uns, wenn Sie an einem Ernteanteil interessiert sind. Geben Sie dabei Ihre Adresse an, und ob der Anteil mit Fleisch, vegetarisch oder vegan sein soll.
 
