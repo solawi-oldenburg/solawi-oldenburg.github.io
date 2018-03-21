@@ -43,9 +43,9 @@ Mögliche Milchprodukte: zum Beispiel Ende Februar 2018
 </div>
 
 Man kann zwischen drei Ernteanteil-Typen wählen:
-- vegan: Brot, Gemüse (Richtwert 120 €/ halber Anteil 60 €)
-- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 164 €/ halber Anteil 82 €)
-- mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 180 €/halber Anteil 90 €)
+- vegan: Brot, Gemüse (Richtwert 118 €/ halber Anteil 59 €)
+- vegetarisch: Brot, Gemüse, Milchprodukte, Eier (Richtwert 173 €/ halber Anteil 86 €)
+- mit Fleisch: Brot, Gemüse, Milchprodukte, Eier, Fleisch (Richtwert 189 €/halber Anteil 86 €)
 
 Freitagnachmittag kann sich jedes Mitglied seinen Ernteanteil zwischen 15 bis 18 h vom Hof abholen.
 
