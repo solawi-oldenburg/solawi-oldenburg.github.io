@@ -28,9 +28,9 @@ Geplatzte oder verformte Tomaten werden für die Märkte aussortiert, für die S
 #### Wo kann ich die Lebensmittel abholen?
 Die Lebensmittel stehen am Freitagnachmittag zur Abholung auf dem Hof bereit. Des Weiteren gibt es vier Abholstellen in Oldenburg, die von den Mitgliedern selbst organisiert werden.
 
-#Depot: Eversten (Hundsmühlerstr.)
-#Depot: Osternburg (im Bioladen "Brot und So")
-#Depot: Donnerschwee
+####Depot: Eversten (Hundsmühlerstr.)
+####Depot: Osternburg (im Bioladen "Brot und So")
+####Depot: Neu-Donnerschwee
 
 Wir kommissionieren nicht vor! Die Aufteilung der Lieferung findet gemeinschaftlich in den Depots statt.
 
@@ -47,8 +47,10 @@ Da der finanzielle Beitrag der Mitglieder zur Finanzierung der Landwirtschaft be
 Die Mitglieder verschenken ihren Anteil in dieser Zeit an Freunde oder Verwandte.
 
 #### Wie teuer ist ein Ernteanteil? 
-Der monatliche Beitrag für eine vollen Ernteanteil liegt bei 180 €, für den vegetarischen Anteil bei ca. 164 € und für den veganen Anteil bei ca. 120 € im Monat.
-Im Februar 2018 wird auf das Jahr 2017 zurück geschaut  und der neue Etat für das Jahr 2018 erstellt.
+Der monatliche Beitrag für eine vollen Ernteanteil (Gemüse, Brot, Eier, Milchprodukte und Fleisch) beträgt 189 €, für den vegetarischen Anteil (Gemüse, Brot, Eier und Milchprodukte) bei 173 € und für den veganen Anteil (Gemüse und Brot) bei 118 € im Monat.
+
+Sie können auch Verantwortung für halbe Anteile übernehmen.
+
 
 #### Wann muss der Beitrag gezahlt werden?
 Der Beitrag zur Deckung der Kosten des Hofes wird monatlich per Lastschrift bezahlt. Einige Mitglieder haben im Frühjahr direkt ihren Jahresbeitrag überwiesen, um dem Hof bei der Finanzierung von Saatgut zu unterstützen.
